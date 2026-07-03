@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#09090b" />
+  
+  <!-- Subtle green/cyan gradient for WhatsApp/Tech vibe -->
+  <defs>
+    <radialGradient id="waGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22c55e" stop-opacity="0.15" />
+      <stop offset="60%" stop-color="#06b6d4" stop-opacity="0.05" />
+      <stop offset="100%" stop-color="#09090b" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#waGlow)" />
+
+  <g opacity="0.8">
+    <!-- Abstract smartphone / OS frame -->
+    <rect x="450" y="100" width="300" height="500" rx="40" fill="none" stroke="#22c55e" stroke-width="4" />
+    <rect x="470" y="120" width="260" height="460" rx="30" fill="#050508" stroke="#0ea5e9" stroke-width="1" />
+    
+    <!-- Chat Bubbles turning into Data / Code -->
+    <!-- Bubble 1: Incoming -->
+    <path d="M 490 200 L 650 200 A 10 10 0 0 1 660 210 L 660 260 A 10 10 0 0 1 650 270 L 500 270 L 480 290 L 480 210 A 10 10 0 0 1 490 200 Z" fill="#22c55e" fill-opacity="0.2" stroke="#22c55e" stroke-width="2"/>
+    <path d="M 510 225 L 630 225 M 510 245 L 590 245" stroke="#22c55e" stroke-width="4" stroke-linecap="round"/>
+    
+    <!-- Bubble 2: Outgoing (Data processing) -->
+    <path d="M 550 320 L 710 320 A 10 10 0 0 1 720 330 L 720 410 L 740 430 L 550 430 A 10 10 0 0 1 540 420 L 540 330 A 10 10 0 0 1 550 320 Z" fill="#0ea5e9" fill-opacity="0.2" stroke="#0ea5e9" stroke-width="2"/>
+    <!-- Code/Nodes inside bubble -->
+    <circle cx="580" cy="375" r="15" fill="none" stroke="#0ea5e9" stroke-width="2"/>
+    <rect x="610" y="360" width="80" height="6" rx="3" fill="#06b6d4"/>
+    <rect x="610" y="380" width="60" height="6" rx="3" fill="#06b6d4"/>
+    
+    <!-- Nodes connecting phone to outer DB -->
+    <path d="M 750 350 L 950 250" stroke="#06b6d4" stroke-width="3" stroke-dasharray="10 5"/>
+    <path d="M 750 450 L 950 550" stroke="#06b6d4" stroke-width="3" stroke-dasharray="10 5"/>
+    <path d="M 450 350 L 250 250" stroke="#22c55e" stroke-width="3" stroke-dasharray="10 5"/>
+    
+    <!-- Outer DB / Server Racks Abstract -->
+    <rect x="950" y="150" width="100" height="300" rx="10" fill="none" stroke="#0ea5e9" stroke-width="4"/>
+    <rect x="970" y="170" width="60" height="20" rx="5" fill="#06b6d4"/>
+    <rect x="970" y="210" width="60" height="20" rx="5" fill="#06b6d4"/>
+    
+    <circle cx="250" cy="250" r="30" fill="none" stroke="#22c55e" stroke-width="4"/>
+    <circle cx="250" cy="250" r="15" fill="#22c55e"/>
+    
+    <circle cx="850" cy="280" r="6" fill="#06b6d4" />
+    <circle cx="350" cy="300" r="8" fill="#22c55e" />
+  </g>
+</svg>

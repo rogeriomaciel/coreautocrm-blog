@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#09090b" />
+  
+  <!-- Glow for "AI Core" -->
+  <radialGradient id="coreGlow" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.25" />
+    <stop offset="100%" stop-color="#09090b" stop-opacity="0" />
+  </radialGradient>
+  <rect width="1200" height="630" fill="url(#coreGlow)" />
+
+  <g opacity="0.9">
+    <!-- Abstract representation of the AI Native Core vs Old System -->
+    
+    <!-- Old system (left) fading out -->
+    <g opacity="0.3">
+      <rect x="100" y="250" width="100" height="40" rx="4" fill="none" stroke="#666677" stroke-width="2" />
+      <rect x="100" y="310" width="140" height="40" rx="4" fill="none" stroke="#666677" stroke-width="2" />
+      <rect x="100" y="370" width="120" height="40" rx="4" fill="none" stroke="#666677" stroke-width="2" />
+      <path d="M 260 330 L 400 330" stroke="#666677" stroke-width="1" stroke-dasharray="4 4" />
+    </g>
+
+    <!-- AI Native Core (center and expanding outwards) -->
+    <circle cx="600" cy="315" r="100" fill="#050508" stroke="#0ea5e9" stroke-width="6" />
+    <circle cx="600" cy="315" r="80" fill="none" stroke="#06b6d4" stroke-width="2" stroke-dasharray="10 8" />
+    <circle cx="600" cy="315" r="40" fill="#0ea5e9" />
+    <circle cx="600" cy="315" r="20" fill="#06b6d4" />
+    
+    <!-- Radiating intelligent neural paths -->
+    <path d="M 600 215 Q 700 100 900 150" fill="none" stroke="#0ea5e9" stroke-width="4" stroke-linecap="round" />
+    <circle cx="900" cy="150" r="15" fill="#050508" stroke="#06b6d4" stroke-width="3" />
+    
+    <path d="M 700 315 Q 900 315 1000 315" fill="none" stroke="#0ea5e9" stroke-width="4" stroke-linecap="round" />
+    <circle cx="1000" cy="315" r="25" fill="#0ea5e9" />
+    
+    <path d="M 600 415 Q 750 500 950 480" fill="none" stroke="#0ea5e9" stroke-width="4" stroke-linecap="round" />
+    <circle cx="950" cy="480" r="15" fill="#050508" stroke="#06b6d4" stroke-width="3" />
+    
+    <path d="M 500 315 Q 400 250 350 150" fill="none" stroke="#0ea5e9" stroke-width="2" stroke-dasharray="5 5" />
+    <path d="M 500 400 Q 400 450 350 500" fill="none" stroke="#0ea5e9" stroke-width="2" stroke-dasharray="5 5" />
+    
+    <!-- Binary/Data particles floating -->
+    <circle cx="450" cy="200" r="3" fill="#06b6d4" />
+    <circle cx="800" cy="220" r="5" fill="#0ea5e9" />
+    <circle cx="750" cy="420" r="4" fill="#06b6d4" />
+    <circle cx="900" cy="380" r="7" fill="#0ea5e9" />
+  </g>
+</svg>

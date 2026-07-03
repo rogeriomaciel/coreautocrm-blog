@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#09090b" />
+  
+  <!-- Subtle background glow -->
+  <radialGradient id="bottleneckGlow" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#f97316" stop-opacity="0.1" />
+    <stop offset="100%" stop-color="#09090b" stop-opacity="0" />
+  </radialGradient>
+  <rect width="1200" height="630" fill="url(#bottleneckGlow)" />
+
+  <g opacity="0.8">
+    <!-- Represents the wide top of the funnel/bottleneck -->
+    <path d="M 150 100 L 1050 100" stroke="#0ea5e9" stroke-width="4" stroke-dasharray="15 10"/>
+    <path d="M 150 100 Q 300 350, 450 350" fill="none" stroke="#06b6d4" stroke-width="6" stroke-linecap="round"/>
+    <path d="M 1050 100 Q 900 350, 750 350" fill="none" stroke="#06b6d4" stroke-width="6" stroke-linecap="round"/>
+    
+    <!-- The narrow bottleneck -->
+    <path d="M 450 350 L 450 500" stroke="#f97316" stroke-width="6" stroke-linecap="round"/>
+    <path d="M 750 350 L 750 500" stroke="#f97316" stroke-width="6" stroke-linecap="round"/>
+    
+    <!-- Red/Orange critical zone -->
+    <circle cx="600" cy="425" r="50" fill="#ef4444" fill-opacity="0.2" stroke="#f97316" stroke-width="4" stroke-dasharray="8 4"/>
+    <circle cx="600" cy="425" r="20" fill="#ef4444" />
+    
+    <!-- Incoming capacity (Cyan particles) -->
+    <circle cx="300" cy="180" r="10" fill="#0ea5e9" />
+    <circle cx="450" cy="150" r="15" fill="#06b6d4" />
+    <circle cx="600" cy="200" r="12" fill="#0ea5e9" />
+    <circle cx="750" cy="160" r="8" fill="#06b6d4" />
+    <circle cx="900" cy="190" r="14" fill="#0ea5e9" />
+    <circle cx="380" cy="280" r="6" fill="#06b6d4" />
+    <circle cx="820" cy="260" r="7" fill="#0ea5e9" />
+    
+    <!-- Congestion lines -->
+    <path d="M 500 350 L 700 350" stroke="#f97316" stroke-width="2" />
+    <path d="M 520 370 L 680 370" stroke="#f97316" stroke-width="2" />
+    
+    <!-- Outflow (Smooth tech lines releasing the bottleneck) -->
+    <path d="M 450 500 Q 400 580, 200 600" fill="none" stroke="#22c55e" stroke-width="4" stroke-linecap="round" stroke-dasharray="10 5"/>
+    <path d="M 750 500 Q 800 580, 1000 600" fill="none" stroke="#22c55e" stroke-width="4" stroke-linecap="round" stroke-dasharray="10 5"/>
+    
+    <circle cx="350" cy="560" r="8" fill="#22c55e" />
+    <circle cx="850" cy="570" r="6" fill="#22c55e" />
+  </g>
+</svg>

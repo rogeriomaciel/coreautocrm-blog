@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#09090b" />
+  <defs>
+    <radialGradient id="futureGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#09090b" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#futureGlow)" />
+  <g opacity="0.8">
+    <path d="M 200 500 C 400 300, 800 600, 1000 200" fill="none" stroke="#0ea5e9" stroke-width="6"/>
+    <path d="M 200 550 C 400 350, 800 650, 1000 250" fill="none" stroke="#06b6d4" stroke-width="2" opacity="0.5"/>
+    <circle cx="1000" cy="200" r="15" fill="#0ea5e9" />
+    <circle cx="1000" cy="200" r="30" fill="none" stroke="#06b6d4" stroke-width="2" stroke-dasharray="5 5"/>
+    
+    <path d="M 400 100 L 400 600 M 600 100 L 600 600 M 800 100 L 800 600" stroke="#ffffff" stroke-opacity="0.1" stroke-width="1"/>
+  </g>
+</svg>

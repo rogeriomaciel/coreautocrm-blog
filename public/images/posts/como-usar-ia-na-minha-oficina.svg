@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#0a0a12" />
+  
+  <!-- Subtle gradient glow -->
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a12" />
+      <stop offset="100%" stop-color="#1e1e36" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bgGrad)" />
+
+  <!-- Decorative Abstract Shapes -->
+  <g opacity="0.6">
+    <circle cx="950" cy="150" r="180" fill="none" stroke="#06b6d4" stroke-width="2" />
+    <circle cx="950" cy="150" r="120" fill="none" stroke="#0ea5e9" stroke-width="1" stroke-dasharray="12 6" />
+    <circle cx="950" cy="150" r="150" fill="none" stroke="#0ea5e9" stroke-width="1" stroke-dasharray="4 8" />
+    <rect x="800" y="400" width="150" height="150" rx="30" fill="none" stroke="#0ea5e9" stroke-width="3" transform="rotate(45 875 475)" />
+    <rect x="820" y="420" width="110" height="110" rx="20" fill="none" stroke="#06b6d4" stroke-width="1" stroke-dasharray="6 6" transform="rotate(45 875 475)" />
+    <circle cx="750" cy="200" r="12" fill="#06b6d4" />
+    <circle cx="1100" cy="400" r="8" fill="#0ea5e9" />
+    <circle cx="850" cy="100" r="6" fill="#0ea5e9" />
+    <circle cx="1000" cy="500" r="10" fill="#06b6d4" />
+    
+    <!-- Connection lines -->
+    <path d="M 750 200 L 950 150" stroke="#06b6d4" stroke-width="1" stroke-dasharray="5 5" opacity="0.5"/>
+    <path d="M 1100 400 L 875 475" stroke="#0ea5e9" stroke-width="1" stroke-dasharray="5 5" opacity="0.5"/>
+  </g>
+</svg>
