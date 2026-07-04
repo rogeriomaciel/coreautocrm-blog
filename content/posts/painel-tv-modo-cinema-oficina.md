@@ -13,7 +13,7 @@ cover_image: "/images/posts/painel-tv-modo-cinema-oficina.svg"
 published: true
 ---
 
-Se você caminhar pelo pátio de oficinas mecânicas tradicionais, vai encontrar o mesmo cenário de décadas atrás: pranchetas penduradas, quadros brancos rabiscados e mecânicos perguntando constantemente "qual é o próximo carro?". Esse modelo não apenas gasta tempo, mas atrasa entregas.
+Se você caminhar pelo pátio de oficinas mecânicas tradicionais, vai encontrar o mesmo cenário de décadas atrás: [pranchetas penduradas, o uso do papelzinho sendo um problema](/post/fim-papelzinho-ia-oficinas), quadros brancos rabiscados e mecânicos perguntando constantemente "qual é o próximo carro?". Esse modelo não apenas gasta tempo, mas atrasa entregas.
 
 A solução moderna para isso é o **Painel TV em Modo Cinema**. Imagine uma Smart TV fixada no pátio da oficina mostrando, em tempo real, exatamente o que cada um deve fazer, sem ninguém precisar tocar num teclado.
 

@@ -21,7 +21,7 @@ Quando você tenta forçar um mecânico a se tornar um "operador de ERP", o que 
 
 A grande revolução do **CoreAutoCRM** não foi criar uma tela de sistema "mais bonita", foi criar um sistema que **não precisa de tela**. Entramos na era da Operação Conversacional.
 
-O conceito é simples: se o mecânico sabe falar o que precisa ser feito, por que ele precisa digitar? 
+O conceito é simples: se o mecânico sabe falar o que precisa ser feito, por que ele precisa digitar? É por isso que o [diagnóstico por voz via WhatsApp](/post/diagnostico-mecanico-por-voz-whatsapp) é tão eficiente no pátio.
 
 Em vez de menus dropdown e caixas de texto, o mecânico abre o WhatsApp, grava um áudio e diz: *"Oi Kadu, a Tracker branca que tá na minha rampa vai precisar de 4 litros de óleo e um filtro novo. O cliente já liberou"*. 
 

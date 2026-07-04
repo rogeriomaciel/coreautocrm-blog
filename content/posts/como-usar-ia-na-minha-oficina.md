@@ -64,6 +64,6 @@ A IA te entrega relatórios como: *"Motor Fundido na Aprovação: Sua Oficina Es
 
 ## Dê o próximo passo na automação
 
-Se você quer que a sua oficina pare de perder dinheiro com desorganização, não procure apenas um "chatbot de WhatsApp". Busque uma plataforma completa, baseada em inteligência artificial, que una o pátio, o cliente e o caixa no mesmo lugar. 
+Se você quer que a sua oficina pare de perder dinheiro com desorganização, não procure apenas um "chatbot de WhatsApp". Busque uma plataforma completa, baseada em inteligência artificial, capaz de atuar como o [cérebro da sua oficina, orquestrando cada setor](/post/cerebro-ia-modulos-oficina) e unindo o pátio, o cliente e o caixa no mesmo lugar.
 
 A IA não substitui um bom mecânico, mas garante que o seu melhor mecânico passe o dia focando no motor do carro, e não preenchendo planilhas.

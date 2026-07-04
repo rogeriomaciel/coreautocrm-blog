@@ -15,7 +15,7 @@ published: true
 
 Pergunte a 10 donos de oficinas mecânicas qual é o maior desafio do negócio deles hoje, e 8 responderão prontamente: *"Preciso de mais clientes, preciso lotar minha agenda"*. 
 
-É instintivo acreditar que mais carros na porta significam mais dinheiro no bolso. Porém, a dura realidade matemática da reparação automotiva revela outro cenário: se a sua oficina hoje sofre com carros parados no pátio esperando peça, orçamentos que demoram horas para serem enviados e mecânicos ociosos, **colocar mais clientes para dentro só vai acelerar o colapso da sua operação**.
+É instintivo acreditar que mais carros na porta significam mais dinheiro no bolso. Porém, a dura realidade matemática da reparação automotiva revela outro cenário: se a sua oficina hoje sofre com [carros parados no pátio esperando peça e perdendo dinheiro](/post/identificar-carros-parados-dinheiro-perdido-oficina), orçamentos que demoram horas para serem enviados e mecânicos ociosos, **colocar mais clientes para dentro só vai acelerar o colapso da sua operação**.
 
 O verdadeiro vilão do seu faturamento não é a falta de demanda. É o **Gargalo Operacional**.
 
@@ -36,7 +36,7 @@ Sistemas de gestão antigos focavam apenas em emitir a Nota Fiscal. Soluções m
 Em vez de esperar o consultor ficar livre, o mecânico usa o celular dele, no meio do pátio, e manda um áudio no WhatsApp corporativo: *"Finalizei o diagnóstico do Gol. Precisa de pastilha de freio e óleo 5W30"*. A Inteligência Artificial transcreve, organiza e lança uma Pré-OS no sistema instantaneamente. O consultor apenas aprova e clica em enviar.
 
 ### 2. Painel de Controle (Modo Cinema)
-A velha pergunta *"qual é o próximo carro?"* desaparece. Uma Smart TV no pátio exibe a fila de veículos e a carga de trabalho de cada mecânico por cores (Verde para livre, Vermelho para sobrecarregado). A distribuição de tarefas fica visual e instantânea.
+A velha pergunta *"qual é o próximo carro?"* desaparece, substituída pela facilidade de [conhecer o Painel TV Modo Cinema](/post/painel-tv-modo-cinema-oficina). Uma Smart TV no pátio exibe a fila de veículos e a carga de trabalho de cada mecânico por cores (Verde para livre, Vermelho para sobrecarregado). A distribuição de tarefas fica visual e instantânea.
 
 ### 3. Aprovação Acelerada por IA
 O cliente não quer ler PDFs técnicos gigantes. A IA do CoreAutoCRM formata o orçamento no WhatsApp de maneira simples, destacando o problema, a solução e um botão claro de "Aprovar Serviço". O tempo de resposta do cliente cai drasticamente.

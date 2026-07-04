@@ -15,7 +15,7 @@ published: true
 
 A regra de ouro das vendas é o "follow-up" (acompanhamento do cliente), mas enviar a mesma mensagem genérica de promoção para 500 clientes no WhatsApp é a receita certa para ter seu número bloqueado. Hoje, a Inteligência Artificial permite que sua oficina faça um acompanhamento cirúrgico e humano, sem parecer um robô de spam.
 
-Neste artigo, vou revelar como sistemas de gestão avançados (como o CoreAutoCRM) estruturam um fluxo de follow-up que converte orçamentos perdidos em vendas reais, sem irritar o seu cliente.
+Neste artigo, vou revelar como sistemas de gestão avançados (como o CoreAutoCRM) estruturam um fluxo de follow-up que te ajuda a [aumentar a aprovação de orçamentos e não deixar carros parados](/post/ia-aumentar-aprovacao-orcamento-reduzir-veiculos), sem irritar o seu cliente.
 
 ## Por que os disparos em massa não funcionam mais?
 
@@ -31,7 +31,7 @@ Com a IA, passamos do "Disparo em Massa" para a **Geração Assistida de Leads**
 
 ## 1. Como a IA escreve a mensagem perfeita?
 
-Quando você clica em "Gerar Sugestões de Hoje" no seu CRM, a inteligência artificial não inventa um texto do zero. Ela vasculha o banco de dados daquele cliente específico:
+Quando você clica em "Gerar Sugestões de Hoje" no seu CRM (que aliás, [se você não alimentar corretamente, o CRM falha](/post/por-que-crms-oficina-falham)), a inteligência artificial não inventa um texto do zero. Ela vasculha o banco de dados daquele cliente específico:
 
 1. Lê todo o histórico de conversas anteriores.
 2. Analisa as últimas Ordens de Serviço (OS) e orçamentos que não foram aprovados.

@@ -13,7 +13,7 @@ cover_image: "/images/posts/cerebro-ia-modulos-oficina.svg"
 published: true
 ---
 
-Quando a maioria das oficinas tenta adotar Inteligência Artificial, elas cometem um erro crasso: colocam um único "chatbot genérico" para tentar resolver todos os problemas ao mesmo tempo. O resultado é um robô confuso que perde orçamentos.
+Quando a maioria das oficinas tenta adotar Inteligência Artificial, elas cometem um erro crasso: colocam um único "chatbot genérico" para tentar resolver todos os problemas ao mesmo tempo. O resultado é um robô confuso que perde orçamentos. Se você não sabe [como usar IA na sua oficina de forma correta](/post/como-usar-ia-na-minha-oficina), o projeto pode fracassar.
 
 Na vida real, sua oficina tem departamentos (recepção, consultoria técnica, pátio de reparação, caixa). Por que sua IA deveria ser um bloco único? A arquitetura do **CoreAutoCRM** revoluciona o setor aplicando o conceito de "Módulos Cognitivos".
 

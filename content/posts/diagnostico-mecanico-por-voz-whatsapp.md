@@ -39,7 +39,7 @@ A mágica acontece quando integramos transcrição de áudio avançada (como a d
 
 | Abordagem Manual | Abordagem por IA e Voz |
 | ---------------- | ---------------------- |
-| Papel voando, sujo de óleo ou letras ilegíveis | Áudio cristalino transcrito e organizado com IA |
+| [Papel voando, sujo de óleo e pranchetas abandonadas](/post/fim-papelzinho-ia-oficinas) | Áudio cristalino transcrito e organizado com IA |
 | Espera até o fim do dia para repassar os orçamentos | Orçamento lançado no sistema em tempo real durante a execução |
 | Desconexão entre o pátio e a recepção | Todo mundo, do estoquista ao cliente, é notificado instantaneamente |
 

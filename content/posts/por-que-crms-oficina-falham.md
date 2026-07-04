@@ -27,7 +27,7 @@ Na teoria, é perfeito. Na loucura do pátio de uma oficina real, é impossível
 
 ## O CoreAutoCRM e o fim do "Data Entry"
 
-Para resolver essa falha estrutural, o **CoreAutoCRM** inverteu a lógica de funcionamento. O sistema não pede para você digitar o que conversou com o cliente; ele **escuta a sua conversa natural (via WhatsApp) e preenche o CRM sozinho**.
+Para resolver essa falha estrutural, o [**CoreAutoCRM** inverteu a lógica de funcionamento adotando o modelo AI-Native](/post/oficina-ai-native-gestao-automotiva). O sistema não pede para você digitar o que conversou com o cliente; ele **escuta a sua conversa natural (via WhatsApp) e preenche o CRM sozinho**.
 
 Como isso é possível? Graças a motores de linguagem (LLMs) como o Gemini, a Inteligência Artificial extrai o contexto da conversa passivamente.
 
@@ -37,7 +37,7 @@ Como isso é possível? Graças a motores de linguagem (LLMs) como o Gemini, a I
 
 Outro motivo pelo qual CRMs falham é que, quando tentam automatizar algo, o fazem da pior forma: *Spam*. Disparam a mesma mensagem para 200 pessoas: *"Olá, venha trocar seu óleo"*. O cliente ignora ou bloqueia.
 
-Com um CRM de nova geração, a Inteligência Artificial lê o histórico real daquele cliente e gera uma proposta de "Follow-up Individualizado". 
+Com um CRM de nova geração, a Inteligência Artificial lê o histórico real daquele cliente e gera [uma proposta de Follow-up Inteligente e individualizado](/post/como-fazer-follow-up-inteligente-oficina). 
 Quando o consultor clica em "Gerar Sugestões", a IA escreve algo cirúrgico: *"Bom dia, Pedro! Vi que na revisão passada você optou por não trocar a bieleta. Como você comentou que ia viajar agora em julho, quer passar aqui rápido só pra gente revisar isso?"*
 
 A taxa de conversão dispara, o cliente se sente único, e seu consultor só precisou de um clique para aprovar o texto gerado pela IA.

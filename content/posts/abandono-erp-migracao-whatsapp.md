@@ -47,6 +47,6 @@ Nos bastidores, o sistema de IA (ancorado por LLMs como o Gemini 2.5) transcreve
 
 O problema do ERP tradicional não é o que ele faz, é *como* ele exige que você insira os dados. O WhatsApp acoplado a uma IA resolve o problema da interface (UI). 
 
-Você mantém todo o poder de controle financeiro, histórico de clientes e gestão de estoque de um ERP potente, mas sem forçar sua equipe a virar digitadora. O sistema se adapta ao ambiente da oficina, e não a oficina ao sistema.
+Você mantém todo o poder de controle financeiro, histórico de clientes e gestão de estoque de um ERP potente, mas sem forçar sua equipe a virar digitadora. O sistema se adapta ao ambiente da oficina, e não a oficina ao sistema. Afinal, [o mecânico não quer aprender a usar um ERP complicado](/post/mecanico-nao-aprende-erp-operacao-conversacional).
 
-Ao transformar a voz e o chat em ações de banco de dados, oficinas estão economizando dezenas de horas semanais, eliminando ruídos de comunicação e aprovando orçamentos três vezes mais rápido. O futuro da gestão automotiva não é uma tela cheia de botões complicados; é uma conversa natural.
+Ao [transformar a voz e o chat nas ações do sistema operacional da sua oficina](/post/whatsapp-sistema-operacional-oficina), oficinas estão economizando dezenas de horas semanais, eliminando ruídos de comunicação e aprovando orçamentos três vezes mais rápido. O futuro da gestão automotiva não é uma tela cheia de botões complicados; é uma conversa natural.

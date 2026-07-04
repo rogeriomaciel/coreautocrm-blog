@@ -21,9 +21,9 @@ O futuro da oficina não mudou a chave de fenda; mudou a forma como a informaç�
 
 Hoje, a tolerância do consumidor para a demora é nula. Ele rastreia a pizza dele no iFood minuto a minuto, mas deixa o carro na oficina e fica no escuro por 3 dias. As oficinas que não se adaptarem à comunicação em tempo real serão extintas pelo mercado.
 
-Com plataformas AI-Native (como o **CoreAutoCRM**), a oficina se transforma em uma entidade hiperconectada:
+Com plataformas projetadas para o [novo modelo de gestão AI-Native](/post/oficina-ai-native-gestao-automotiva) (como o **CoreAutoCRM**), a oficina se transforma em uma entidade hiperconectada:
 - A IA acompanha via WhatsApp cada peça instalada pelo mecânico.
 - O sistema avisa o consultor instantaneamente que a OS acabou.
 - O cliente recebe notificações ativas e personalizadas sem que um humano tenha precisado redigir o texto.
 
-A automação elimina a falha humana de "esquecer de avisar" e garante que o fluxo do pátio ande na velocidade máxima. Quem opera com IA não está no futuro; está liderando o mercado de hoje.
+A automação elimina a falha humana de "esquecer de avisar" e garante que o fluxo do pátio ande na velocidade máxima. Quer saber como implementar isso na prática? Veja nosso [guia de como usar IA na sua oficina](/post/como-usar-ia-na-minha-oficina). Quem opera com IA não está no futuro; está liderando o mercado de hoje.

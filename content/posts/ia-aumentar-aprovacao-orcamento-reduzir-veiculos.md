@@ -15,7 +15,7 @@ published: true
 
 Existe uma regra de ouro em vendas automotivas: **O cliente não aprova o que ele não entende.** 
 
-Quando você envia um PDF no WhatsApp com uma lista gigantesca de termos técnicos ("Troca de bieleta, homocinética e embuchamento do leque"), o cliente médio se assusta com o valor e pede um tempo para pensar. Enquanto ele "pensa", o carro dele continua ocupando o seu elevador. Você perde dinheiro duas vezes.
+Quando você envia um PDF no WhatsApp com uma lista gigantesca de termos técnicos ("Troca de bieleta, homocinética e embuchamento do leque"), o cliente médio se assusta com o valor e pede um tempo para pensar. Enquanto ele "pensa", o carro dele continua ocupando o seu elevador. Você perde dinheiro duas vezes, e já mostramos [como identificar e evitar carros parados](/post/identificar-carros-parados-dinheiro-perdido-oficina).
 
 ## Traduzindo o "Mecaniquês" com Inteligência Artificial
 
@@ -26,4 +26,4 @@ Em vez de mandar a tabela crua, o consultor pede para a IA formular a mensagem. 
 
 O cliente compreende o valor da segurança, se sente respeitado e aprova mais rápido. Tudo diretamente dentro de uma interface conversacional fluida no WhatsApp, sem exigir downloads de arquivos ou longas ligações.
 
-Use a IA para se comunicar melhor, e sua taxa de aprovação de orçamentos vai disparar enquanto o tempo do veículo parado na oficina despenca.
+Use a IA para se comunicar melhor (aproveite também para aprender [como fazer follow-up inteligente](/post/como-fazer-follow-up-inteligente-oficina)), e sua taxa de aprovação de orçamentos vai disparar enquanto o tempo do veículo parado na oficina despenca.

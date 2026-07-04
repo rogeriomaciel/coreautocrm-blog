@@ -27,7 +27,7 @@ O **CoreAutoCRM** é pioneiro nessa arquitetura no Brasil. Quando dizemos que el
 
 ### 1. Roteamento de Intenção (Sem Botões)
 Em um sistema *não nativo*, você precisa clicar em "Nova Ordem de Serviço", selecionar o mecânico num menu, buscar a placa do carro e inserir as peças.
-Num sistema **AI-Native**, o mecânico fala no áudio: *"Já terminei a revisão do Corsa, usei 4 litros de óleo e o filtro"*. A IA faz o roteamento semântico, acha a placa do Corsa daquele mecânico, fecha a tarefa, deduz as peças do estoque virtual e notifica a tela do consultor.
+Num sistema **AI-Native**, o [mecânico fala no áudio via WhatsApp, como um sistema operacional invisível](/post/whatsapp-sistema-operacional-oficina): *"Já terminei a revisão do Corsa, usei 4 litros de óleo e o filtro"*. A IA faz o roteamento semântico, acha a placa do Corsa daquele mecânico, fecha a tarefa, deduz as peças do estoque virtual e notifica a tela do consultor.
 
 ### 2. Recuperação de Memória (Módulo Pivot)
 Sistemas comuns reiniciam a conversa se o cliente foge do roteiro.
@@ -39,6 +39,6 @@ Uma oficina guiada por um sistema AI-Native escala apenas o pátio (mecânicos e
 
 ## O Futuro é Invisível
 
-O melhor sistema de gestão é aquele que a sua equipe *nem percebe* que está usando. A era de sistemas difíceis, com dezenas de campos obrigatórios vermelhos, acabou. 
+O melhor sistema de gestão é aquele que a sua equipe *nem percebe* que está usando. A era de sistemas difíceis, com dezenas de campos obrigatórios vermelhos, acabou. Para entender mais, veja sobre o [futuro das oficinas mecânicas e a operação em tempo real](/post/futuro-oficinas-mecanicas-ia-automacao).
 
 Ao adotar o modelo AI-Native, você transforma a sua oficina num ambiente fluido. A tecnologia sai do caminho para que o seu mecânico foque em apertar parafusos e o seu consultor foque em encantar clientes e fechar vendas.

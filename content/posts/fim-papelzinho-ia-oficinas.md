@@ -25,7 +25,7 @@ Se o mecânico descobre às 10:00 da manhã que o carro precisa de uma correia n
 
 ## A Solução: Digitalização Instantânea com IA
 
-Sistemas modernos como o **CoreAutoCRM** mataram o papel não obrigando os funcionários a digitarem, mas usando Inteligência Artificial para interpretar informações de forma caótica e organizá-las perfeitamente no banco de dados.
+Sistemas modernos como o **CoreAutoCRM** mataram o papel não obrigando os funcionários a digitarem, afinal, [o mecânico não quer aprender a usar ERP tradicional](/post/mecanico-nao-aprende-erp-operacao-conversacional), mas sim usando Inteligência Artificial para interpretar informações de forma caótica e organizá-las perfeitamente no banco de dados.
 
 ### Como a IA estrutura o caos do Pátio?
 
@@ -37,7 +37,7 @@ Em vez de preencher uma prancheta física, a comunicação hoje é **multicanal 
 
 ## Painel TV: O substituto do quadro branco
 
-Para quem precisa olhar e gerenciar tudo, os papéis grudados na parede foram substituídos pelo **Painel TV Modo Cinema**. 
+Para quem precisa olhar e gerenciar tudo, os papéis grudados na parede foram substituídos pelo [**Painel TV Modo Cinema**](/post/painel-tv-modo-cinema-oficina). 
 
 Toda vez que o mecânico finaliza uma tarefa ou relata um diagnóstico pelo celular, a tela grande pendurada no pátio da oficina muda de cor. O consultor técnico na recepção recebe um *ping* imediato com a lista de peças já digitalizada. O que antes demorava horas de papel circulando, agora leva menos de **5 segundos**.
 

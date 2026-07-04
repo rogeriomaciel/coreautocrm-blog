@@ -17,7 +17,7 @@ A maioria das oficinas mecânicas no Brasil utiliza o WhatsApp de forma extremam
 
 Isso é o equivalente a comprar um smartphone de última geração e usá-lo apenas para mandar SMS.
 
-A grande revolução do setor automotivo, capitaneada pelo **CoreAutoCRM**, é mudar o paradigma do WhatsApp: de um simples aplicativo de mensagens para o **verdadeiro Sistema Operacional da sua empresa**.
+A grande revolução do setor automotivo, capitaneada pelo **CoreAutoCRM**, é mudar o paradigma do WhatsApp: de um simples aplicativo de mensagens para o **verdadeiro Sistema Operacional da sua empresa**. É exatamente por isso que [oficinas de ponta estão abandonando os ERPs tradicionais](/post/abandono-erp-migracao-whatsapp).
 
 ## O que define um Sistema Operacional?
 
@@ -32,7 +32,7 @@ Se o mecânico quiser saber qual é a prioridade do dia, ele não precisa ir at�
 A Inteligência Artificial, funcionando como um Roteador de Intenções (Zero-Shot Routing), entende que ele é um funcionário, lê o banco de dados e responde imediatamente com a lista de carros e OS ativas atreladas a ele.
 
 ### 2. Cadastros via Áudio e Foto
-Em vez de preencher formulários, o mecânico usa a câmera do WhatsApp para tirar foto de uma peça quebrada. A IA processa essa imagem e o áudio explicativo, atrelando automaticamente aquela evidência visual à placa do veículo no banco de dados.
+Em vez de preencher formulários, o mecânico usa a câmera do WhatsApp para tirar foto de uma peça quebrada. A IA processa essa imagem e faz todo o [diagnóstico mecânico por voz através do WhatsApp](/post/diagnostico-mecanico-por-voz-whatsapp), atrelando automaticamente aquela evidência visual e o áudio explicativo à placa do veículo no banco de dados.
 
 ### 3. Fim do PDF: Orçamentos Nativos
 Clientes odeiam baixar PDFs pesados de 4 páginas no meio do 4G para entender por que precisam trocar uma bieleta. 
