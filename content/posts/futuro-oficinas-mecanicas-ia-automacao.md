@@ -1,16 +1,33 @@
 ---
-title: "O futuro das oficinas mecânicas: IA, automação e operação em tempo real"
-slug: "futuro-oficinas-mecanicas-ia-automacao"
-date: "2026-07-02"
-author: "Rogério Maciel"
-excerpt: "Esqueça robôs consertando motores. O futuro já chegou e está na gestão de dados e na velocidade absurda de operação impulsionada por IA."
-meta_title: "Futuro das Oficinas: IA e Automação | CoreSites"
-meta_description: "Entenda como a Inteligência Artificial e a Automação moldam o futuro das oficinas mecânicas, transformando o pátio em uma operação de alta velocidade e precisão."
-keywords: ["futuro oficinas mecanicas", "tecnologia automotiva", "inteligência artificial oficinas", "automação de pátio", "CoreAutoCRM"]
-category: "IA"
-tags: ["Futuro", "IA", "Tendências", "Tecnologia"]
-cover_image: "/images/posts/futuro-oficinas-mecanicas-ia-automacao.svg"
+title: 'O futuro das oficinas mecânicas: IA, automação e operação em tempo real'
+slug: futuro-oficinas-mecanicas-ia-automacao
+date: '2026-07-02'
+author: Rogério Maciel
+excerpt: >-
+  Esqueça robôs consertando motores. O futuro já chegou e está na gestão de
+  dados e na velocidade absurda de operação impulsionada por IA.
+meta_title: 'Futuro das Oficinas: IA e Automação | CoreSites'
+meta_description: >-
+  Entenda como a Inteligência Artificial e a Automação moldam o futuro das
+  oficinas mecânicas, transformando o pátio em uma operação de alta velocidade e
+  precisão.
+keywords:
+  - futuro oficinas mecanicas
+  - tecnologia automotiva
+  - inteligência artificial oficinas
+  - automação de pátio
+  - CoreAutoCRM
+category: IA
+tags:
+  - Futuro
+  - IA
+  - Tendências
+  - Tecnologia
+cover_image: /images/posts/futuro-oficinas-mecanicas-ia-automacao.svg
 published: true
+social_published:
+  - linkedin
+  - facebook
 ---
 
 Quando falamos de "oficina do futuro", muita gente imagina braços robóticos consertando motores ou carros que se arrumam sozinhos. Mas a verdadeira revolução tecnológica no mercado de reposição automotiva é muito mais sutil, invisível e extremamente lucrativa. Ela acontece nos **dados**.

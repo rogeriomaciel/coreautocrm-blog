@@ -1,16 +1,34 @@
 ---
-title: "Por que a maioria dos CRMs para oficina falha na prática (e como resolver isso)"
-slug: "por-que-crms-oficina-falham"
-date: "2026-07-02"
-author: "Rogério Maciel"
-excerpt: "Você comprou um sistema de CRM, mas ninguém alimenta os dados? Descubra por que a digitação manual está matando suas vendas automotivas."
-meta_title: "Por que CRMs falham em oficinas mecânicas? | CoreSites"
-meta_description: "Entenda por que a maioria dos CRMs para oficinas falha por exigir digitação manual, e como o CoreAutoCRM automatiza a alimentação de dados via IA."
-keywords: ["crm para oficina falha", "crm oficina mecânica", "alimentação de crm", "automação de vendas automotivas", "CoreAutoCRM"]
-category: "Gestão"
-tags: ["CRM", "Vendas", "Gestão", "Tecnologia"]
-cover_image: "/images/posts/por-que-crms-oficina-falham.svg"
+title: >-
+  Por que a maioria dos CRMs para oficina falha na prática (e como resolver
+  isso)
+slug: por-que-crms-oficina-falham
+date: '2026-07-02'
+author: Rogério Maciel
+excerpt: >-
+  Você comprou um sistema de CRM, mas ninguém alimenta os dados? Descubra por
+  que a digitação manual está matando suas vendas automotivas.
+meta_title: Por que CRMs falham em oficinas mecânicas? | CoreSites
+meta_description: >-
+  Entenda por que a maioria dos CRMs para oficinas falha por exigir digitação
+  manual, e como o CoreAutoCRM automatiza a alimentação de dados via IA.
+keywords:
+  - crm para oficina falha
+  - crm oficina mecânica
+  - alimentação de crm
+  - automação de vendas automotivas
+  - CoreAutoCRM
+category: Gestão
+tags:
+  - CRM
+  - Vendas
+  - Gestão
+  - Tecnologia
+cover_image: /images/posts/por-que-crms-oficina-falham.svg
 published: true
+social_published:
+  - linkedin
+  - facebook
 ---
 
 A cena é clássica: o dono da oficina mecânica vai a uma feira do setor automotivo, assiste a uma palestra incrível sobre "Aumentar as vendas retendo clientes", e decide comprar o melhor CRM (Customer Relationship Management) do mercado. 

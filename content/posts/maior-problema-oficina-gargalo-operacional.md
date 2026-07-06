@@ -1,16 +1,35 @@
 ---
-title: "O maior problema da sua oficina não é falta de clientes — é gargalo operacional"
-slug: "maior-problema-oficina-gargalo-operacional"
-date: "2026-07-02"
-author: "Rogério Maciel"
-excerpt: "Descubra por que investir em marketing sem resolver o fluxo da sua oficina mecânica é o caminho mais rápido para o estresse e a perda de lucro."
-meta_title: "Resolvendo o gargalo operacional da Oficina Mecânica | CoreSites"
-meta_description: "Aprenda como a automação inteligente do CoreAutoCRM elimina gargalos operacionais e permite que a sua oficina mecânica fature mais sem precisar de mais espaço físico."
-keywords: ["gargalo oficina mecânica", "aumentar faturamento oficina", "produtividade mecânico", "gestão de pátio", "CoreAutoCRM"]
-category: "Gestão"
-tags: ["Gestão", "Produtividade", "Estratégia", "Lucratividade"]
-cover_image: "/images/posts/maior-problema-oficina-gargalo-operacional.svg"
+title: >-
+  O maior problema da sua oficina não é falta de clientes — é gargalo
+  operacional
+slug: maior-problema-oficina-gargalo-operacional
+date: '2026-07-02'
+author: Rogério Maciel
+excerpt: >-
+  Descubra por que investir em marketing sem resolver o fluxo da sua oficina
+  mecânica é o caminho mais rápido para o estresse e a perda de lucro.
+meta_title: Resolvendo o gargalo operacional da Oficina Mecânica | CoreSites
+meta_description: >-
+  Aprenda como a automação inteligente do CoreAutoCRM elimina gargalos
+  operacionais e permite que a sua oficina mecânica fature mais sem precisar de
+  mais espaço físico.
+keywords:
+  - gargalo oficina mecânica
+  - aumentar faturamento oficina
+  - produtividade mecânico
+  - gestão de pátio
+  - CoreAutoCRM
+category: Gestão
+tags:
+  - Gestão
+  - Produtividade
+  - Estratégia
+  - Lucratividade
+cover_image: /images/posts/maior-problema-oficina-gargalo-operacional.svg
 published: true
+social_published:
+  - linkedin
+  - facebook
 ---
 
 Pergunte a 10 donos de oficinas mecânicas qual é o maior desafio do negócio deles hoje, e 8 responderão prontamente: *"Preciso de mais clientes, preciso lotar minha agenda"*. 

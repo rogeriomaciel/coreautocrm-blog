@@ -1,16 +1,33 @@
 ---
-title: "Como transformar o WhatsApp no sistema operacional da sua oficina"
-slug: "whatsapp-sistema-operacional-oficina"
-date: "2026-07-02"
-author: "Rogério Maciel"
-excerpt: "Pare de usar o WhatsApp apenas para responder clientes. Descubra como ele pode virar a principal interface de gestão entre o pátio e a recepção."
-meta_title: "WhatsApp como Sistema Operacional para Oficinas | CoreSites"
-meta_description: "Entenda como a Inteligência Artificial permite que o WhatsApp deixe de ser apenas um chat e se transforme no sistema operacional (ERP) da sua oficina mecânica."
-keywords: ["whatsapp oficina mecânica", "sistema operacional oficina", "ia no whatsapp", "gestão por whatsapp", "CoreAutoCRM"]
-category: "Automação"
-tags: ["WhatsApp", "Tecnologia", "Automação", "Gestão"]
-cover_image: "/images/posts/whatsapp-sistema-operacional-oficina.svg"
+title: Como transformar o WhatsApp no sistema operacional da sua oficina
+slug: whatsapp-sistema-operacional-oficina
+date: '2026-07-02'
+author: Rogério Maciel
+excerpt: >-
+  Pare de usar o WhatsApp apenas para responder clientes. Descubra como ele pode
+  virar a principal interface de gestão entre o pátio e a recepção.
+meta_title: WhatsApp como Sistema Operacional para Oficinas | CoreSites
+meta_description: >-
+  Entenda como a Inteligência Artificial permite que o WhatsApp deixe de ser
+  apenas um chat e se transforme no sistema operacional (ERP) da sua oficina
+  mecânica.
+keywords:
+  - whatsapp oficina mecânica
+  - sistema operacional oficina
+  - ia no whatsapp
+  - gestão por whatsapp
+  - CoreAutoCRM
+category: Automação
+tags:
+  - WhatsApp
+  - Tecnologia
+  - Automação
+  - Gestão
+cover_image: /images/posts/whatsapp-sistema-operacional-oficina.svg
 published: true
+social_published:
+  - linkedin
+  - facebook
 ---
 
 A maioria das oficinas mecânicas no Brasil utiliza o WhatsApp de forma extremamente limitante: apenas como um chat glorificado para enviar orçamentos (geralmente em pesados arquivos PDF) ou para dizer ao cliente que "o carro tá pronto". 

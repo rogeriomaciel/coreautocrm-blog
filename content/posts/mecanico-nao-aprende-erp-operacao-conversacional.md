@@ -1,16 +1,32 @@
 ---
-title: "O mecânico não quer aprender ERP: a nova era da operação conversacional"
-slug: "mecanico-nao-aprende-erp-operacao-conversacional"
-date: "2026-07-02"
-author: "Rogério Maciel"
-excerpt: "Forçar sua equipe de pátio a preencher sistemas complexos destrói a produtividade. Veja como interfaces conversacionais resolvem isso."
-meta_title: "O fim do ERP para mecânicos | CoreSites"
-meta_description: "Aprenda por que forçar mecânicos a usar ERPs afunda a produtividade da oficina, e como a operação conversacional (IA no WhatsApp) é a solução."
-keywords: ["mecanico erp", "operacao conversacional oficina", "tecnologia no pátio", "automação mecânica", "CoreAutoCRM"]
-category: "Automação"
-tags: ["Equipe", "Tecnologia", "Conversacional", "Produtividade"]
-cover_image: "/images/posts/mecanico-nao-aprende-erp-operacao-conversacional.svg"
+title: 'O mecânico não quer aprender ERP: a nova era da operação conversacional'
+slug: mecanico-nao-aprende-erp-operacao-conversacional
+date: '2026-07-02'
+author: Rogério Maciel
+excerpt: >-
+  Forçar sua equipe de pátio a preencher sistemas complexos destrói a
+  produtividade. Veja como interfaces conversacionais resolvem isso.
+meta_title: O fim do ERP para mecânicos | CoreSites
+meta_description: >-
+  Aprenda por que forçar mecânicos a usar ERPs afunda a produtividade da
+  oficina, e como a operação conversacional (IA no WhatsApp) é a solução.
+keywords:
+  - mecanico erp
+  - operacao conversacional oficina
+  - tecnologia no pátio
+  - automação mecânica
+  - CoreAutoCRM
+category: Automação
+tags:
+  - Equipe
+  - Tecnologia
+  - Conversacional
+  - Produtividade
+cover_image: /images/posts/mecanico-nao-aprende-erp-operacao-conversacional.svg
 published: true
+social_published:
+  - linkedin
+  - facebook
 ---
 
 Existe um abismo entre o dono da oficina que compra um software de gestão e o mecânico que é obrigado a usá-lo. O gestor ama gráficos, relatórios e controle de estoque. O mecânico ama consertar carros, detesta burocracia e, quase sempre, foge de telas cheias de botões.

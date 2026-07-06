@@ -1,16 +1,32 @@
 ---
-title: "O Cérebro da sua Oficina: Como treinar uma IA para cada setor"
-slug: "cerebro-ia-modulos-oficina"
-date: "2026-07-02"
-author: "Rogério Maciel"
-excerpt: "Sua oficina não precisa de um chatbot genérico, mas sim de módulos cognitivos de IA que agem como recepcionista, consultor e diagnóstico."
-meta_title: "Arquitetura Modular de IA para Oficinas Mecânicas | CoreSites"
-meta_description: "Entenda como a arquitetura de Módulos de Inteligência Artificial permite que uma oficina mecânica escale suas operações de atendimento e diagnóstico."
-keywords: ["arquitetura de IA", "módulos cognitivos", "chatbot oficina mecânica", "escalabilidade automotiva", "LLM para gestão"]
-category: "IA"
-tags: ["IA", "Módulos", "Escalabilidade", "Tecnologia"]
-cover_image: "/images/posts/cerebro-ia-modulos-oficina.svg"
+title: 'O Cérebro da sua Oficina: Como treinar uma IA para cada setor'
+slug: cerebro-ia-modulos-oficina
+date: '2026-07-02'
+author: Rogério Maciel
+excerpt: >-
+  Sua oficina não precisa de um chatbot genérico, mas sim de módulos cognitivos
+  de IA que agem como recepcionista, consultor e diagnóstico.
+meta_title: Arquitetura Modular de IA para Oficinas Mecânicas | CoreSites
+meta_description: >-
+  Entenda como a arquitetura de Módulos de Inteligência Artificial permite que
+  uma oficina mecânica escale suas operações de atendimento e diagnóstico.
+keywords:
+  - arquitetura de IA
+  - módulos cognitivos
+  - chatbot oficina mecânica
+  - escalabilidade automotiva
+  - LLM para gestão
+category: IA
+tags:
+  - IA
+  - Módulos
+  - Escalabilidade
+  - Tecnologia
+cover_image: /images/posts/cerebro-ia-modulos-oficina.svg
 published: true
+social_published:
+  - linkedin
+  - facebook
 ---
 
 Quando a maioria das oficinas tenta adotar Inteligência Artificial, elas cometem um erro crasso: colocam um único "chatbot genérico" para tentar resolver todos os problemas ao mesmo tempo. O resultado é um robô confuso que perde orçamentos. Se você não sabe [como usar IA na sua oficina de forma correta](/post/como-usar-ia-na-minha-oficina), o projeto pode fracassar.

@@ -1,16 +1,34 @@
 ---
-title: "Oficina AI-Native: o novo modelo de gestão que está surgindo no setor automotivo"
-slug: "oficina-ai-native-gestao-automotiva"
-date: "2026-07-02"
-author: "Rogério Maciel"
-excerpt: "Você não precisa colocar 'Inteligência Artificial' num sistema velho. Descubra por que as oficinas mais lucrativas já nascem AI-Native."
-meta_title: "Oficina AI-Native: Novo Modelo de Gestão Automotiva | CoreSites"
-meta_description: "Entenda o conceito AI-Native na gestão de oficinas mecânicas. Veja como sistemas como o CoreAutoCRM não apenas usam IA, mas são guiados por ela."
-keywords: ["oficina ai-native", "gestão automotiva", "sistema de gestão com ia", "inovação em oficinas", "CoreAutoCRM"]
-category: "IA"
-tags: ["IA", "Gestão", "Inovação", "Tendências"]
-cover_image: "/images/posts/oficina-ai-native-gestao-automotiva.svg"
+title: >-
+  Oficina AI-Native: o novo modelo de gestão que está surgindo no setor
+  automotivo
+slug: oficina-ai-native-gestao-automotiva
+date: '2026-07-02'
+author: Rogério Maciel
+excerpt: >-
+  Você não precisa colocar 'Inteligência Artificial' num sistema velho. Descubra
+  por que as oficinas mais lucrativas já nascem AI-Native.
+meta_title: 'Oficina AI-Native: Novo Modelo de Gestão Automotiva | CoreSites'
+meta_description: >-
+  Entenda o conceito AI-Native na gestão de oficinas mecânicas. Veja como
+  sistemas como o CoreAutoCRM não apenas usam IA, mas são guiados por ela.
+keywords:
+  - oficina ai-native
+  - gestão automotiva
+  - sistema de gestão com ia
+  - inovação em oficinas
+  - CoreAutoCRM
+category: IA
+tags:
+  - IA
+  - Gestão
+  - Inovação
+  - Tendências
+cover_image: /images/posts/oficina-ai-native-gestao-automotiva.svg
 published: true
+social_published:
+  - linkedin
+  - facebook
 ---
 
 Existe uma grande diferença entre colocar um motor elétrico no chassi de um Opala antigo e desenhar um carro elétrico da Tesla do zero. O primeiro vai andar, mas vai ser pesado, ineficiente e cheio de gambiarras. O segundo foi projetado *para* ser elétrico.

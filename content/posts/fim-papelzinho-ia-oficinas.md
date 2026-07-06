@@ -1,16 +1,35 @@
 ---
-title: "O fim do “papelzinho”: como a IA está organizando oficinas mecânicas em tempo real"
-slug: "fim-papelzinho-ia-oficinas"
-date: "2026-07-02"
-author: "Rogério Maciel"
-excerpt: "Descubra como os pequenos pedaços de papel estão sangrando o lucro da sua oficina e veja como a Inteligência Artificial centraliza tudo."
-meta_title: "O fim do papel na Oficina Mecânica com IA | CoreSites"
-meta_description: "Como a Inteligência Artificial e o CoreAutoCRM estão acabando com as pranchetas e papéis perdidos nas oficinas mecânicas, organizando dados em tempo real."
-keywords: ["fim do papel oficina", "prancheta oficina mecânica", "organização de oficina", "IA para oficinas", "digitalização automotiva"]
-category: "Automação"
-tags: ["Gestão", "Organização", "IA", "Produtividade"]
-cover_image: "/images/posts/fim-papelzinho-ia-oficinas.svg"
+title: >-
+  O fim do “papelzinho”: como a IA está organizando oficinas mecânicas em tempo
+  real
+slug: fim-papelzinho-ia-oficinas
+date: '2026-07-02'
+author: Rogério Maciel
+excerpt: >-
+  Descubra como os pequenos pedaços de papel estão sangrando o lucro da sua
+  oficina e veja como a Inteligência Artificial centraliza tudo.
+meta_title: O fim do papel na Oficina Mecânica com IA | CoreSites
+meta_description: >-
+  Como a Inteligência Artificial e o CoreAutoCRM estão acabando com as
+  pranchetas e papéis perdidos nas oficinas mecânicas, organizando dados em
+  tempo real.
+keywords:
+  - fim do papel oficina
+  - prancheta oficina mecânica
+  - organização de oficina
+  - IA para oficinas
+  - digitalização automotiva
+category: Automação
+tags:
+  - Gestão
+  - Organização
+  - IA
+  - Produtividade
+cover_image: /images/posts/fim-papelzinho-ia-oficinas.svg
 published: true
+social_published:
+  - linkedin
+  - facebook
 ---
 
 Toda oficina mecânica que cresce enfrenta um inimigo invisível, sorrateiro e extremamente perigoso: o **“papelzinho”**.

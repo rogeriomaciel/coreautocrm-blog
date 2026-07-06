@@ -1,16 +1,33 @@
 ---
-title: "Mecânico de mãos sujas não digita: Diagnóstico por WhatsApp"
-slug: "diagnostico-mecanico-por-voz-whatsapp"
-date: "2026-07-02"
-author: "Rogério Maciel"
-excerpt: "O maior gargalo da tecnologia em oficinas mecânicas é o teclado. Entenda como o diagnóstico e o apontamento por voz via IA resolvem isso."
-meta_title: "Diagnóstico Automotivo por Voz e WhatsApp com IA | CoreSites"
-meta_description: "Veja como a Inteligência Artificial permite que o mecânico reporte falhas, cadastre serviços e mude o status de OS apenas enviando um áudio pelo WhatsApp."
-keywords: ["tecnologia para mecânicos", "diagnóstico por voz oficina", "apontamento via whatsapp", "IA para mecânicos", "sistema mecânica voz"]
-category: "Automação"
-tags: ["Produtividade", "Mecânica", "Voz", "Automação"]
-cover_image: "/images/posts/diagnostico-mecanico-por-voz-whatsapp.svg"
+title: 'Mecânico de mãos sujas não digita: Diagnóstico por WhatsApp'
+slug: diagnostico-mecanico-por-voz-whatsapp
+date: '2026-07-02'
+author: Rogério Maciel
+excerpt: >-
+  O maior gargalo da tecnologia em oficinas mecânicas é o teclado. Entenda como
+  o diagnóstico e o apontamento por voz via IA resolvem isso.
+meta_title: Diagnóstico Automotivo por Voz e WhatsApp com IA | CoreSites
+meta_description: >-
+  Veja como a Inteligência Artificial permite que o mecânico reporte falhas,
+  cadastre serviços e mude o status de OS apenas enviando um áudio pelo
+  WhatsApp.
+keywords:
+  - tecnologia para mecânicos
+  - diagnóstico por voz oficina
+  - apontamento via whatsapp
+  - IA para mecânicos
+  - sistema mecânica voz
+category: Automação
+tags:
+  - Produtividade
+  - Mecânica
+  - Voz
+  - Automação
+cover_image: /images/posts/diagnostico-mecanico-por-voz-whatsapp.svg
 published: true
+social_published:
+  - linkedin
+  - facebook
 ---
 
 A maior resistência à adoção de tecnologia dentro do pátio da oficina tem um motivo muito justo: **teclados, mouses e mãos cheias de graxa simplesmente não combinam**. 

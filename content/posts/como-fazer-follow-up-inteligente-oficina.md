@@ -1,16 +1,33 @@
 ---
-title: "O fim do spam automotivo: Como a IA revolucionou o Follow-Up de oficinas"
-slug: "como-fazer-follow-up-inteligente-oficina"
-date: "2026-07-02"
-author: "Rogério Maciel"
-excerpt: "Descubra como abandonar os disparos em massa no WhatsApp e usar IA para criar mensagens de reengajamento ultra-personalizadas na sua oficina."
-meta_title: "Follow-up de Vendas com IA na Oficina Mecânica | CoreSites"
-meta_description: "Aprenda a aplicar Inteligência Artificial no follow-up da sua oficina mecânica. Gere propostas de reengajamento que não parecem spam e dobre seu faturamento."
-keywords: ["follow-up oficina", "vendas oficina mecânica", "disparo whatsapp oficina", "IA automotiva", "CRM para oficinas"]
-category: "Automação"
-tags: ["Follow-up", "Vendas", "IA", "CRM"]
-cover_image: "/images/posts/como-fazer-follow-up-inteligente-oficina.svg"
+title: 'O fim do spam automotivo: Como a IA revolucionou o Follow-Up de oficinas'
+slug: como-fazer-follow-up-inteligente-oficina
+date: '2026-07-02'
+author: Rogério Maciel
+excerpt: >-
+  Descubra como abandonar os disparos em massa no WhatsApp e usar IA para criar
+  mensagens de reengajamento ultra-personalizadas na sua oficina.
+meta_title: Follow-up de Vendas com IA na Oficina Mecânica | CoreSites
+meta_description: >-
+  Aprenda a aplicar Inteligência Artificial no follow-up da sua oficina
+  mecânica. Gere propostas de reengajamento que não parecem spam e dobre seu
+  faturamento.
+keywords:
+  - follow-up oficina
+  - vendas oficina mecânica
+  - disparo whatsapp oficina
+  - IA automotiva
+  - CRM para oficinas
+category: Automação
+tags:
+  - Follow-up
+  - Vendas
+  - IA
+  - CRM
+cover_image: /images/posts/como-fazer-follow-up-inteligente-oficina.svg
 published: true
+social_published:
+  - linkedin
+  - facebook
 ---
 
 A regra de ouro das vendas é o "follow-up" (acompanhamento do cliente), mas enviar a mesma mensagem genérica de promoção para 500 clientes no WhatsApp é a receita certa para ter seu número bloqueado. Hoje, a Inteligência Artificial permite que sua oficina faça um acompanhamento cirúrgico e humano, sem parecer um robô de spam.

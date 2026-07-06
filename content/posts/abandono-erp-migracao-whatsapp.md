@@ -1,16 +1,34 @@
 ---
-title: "Por que oficinas mecânicas estão abandonando ERPs tradicionais e migrando para operações via WhatsApp"
-slug: "abandono-erp-migracao-whatsapp"
-date: "2026-07-02"
-author: "Rogério Maciel"
-excerpt: "Aprenda por que forçar mecânicos a usar sistemas de gestão complexos é o maior erro da sua oficina, e como o WhatsApp se tornou o novo ERP."
-meta_title: "Por que oficinas estão abandonando ERPs tradicionais? | CoreSites"
-meta_description: "Entenda a revolução no setor automotivo: oficinas estão deixando de lado sistemas de gestão (ERPs) complexos para operar totalmente via WhatsApp e IA."
-keywords: ["erp oficina mecânica", "sistema gestão oficina", "automação whatsapp", "operação via whatsapp", "CoreAutoCRM"]
-category: "Gestão"
-tags: ["ERP", "WhatsApp", "Gestão Automotiva", "Produtividade"]
-cover_image: "/images/posts/abandono-erp-migracao-whatsapp.svg"
+title: >-
+  Por que oficinas mecânicas estão abandonando ERPs tradicionais e migrando para
+  operações via WhatsApp
+slug: abandono-erp-migracao-whatsapp
+date: '2026-07-02'
+author: Rogério Maciel
+excerpt: >-
+  Aprenda por que forçar mecânicos a usar sistemas de gestão complexos é o maior
+  erro da sua oficina, e como o WhatsApp se tornou o novo ERP.
+meta_title: Por que oficinas estão abandonando ERPs tradicionais? | CoreSites
+meta_description: >-
+  Entenda a revolução no setor automotivo: oficinas estão deixando de lado
+  sistemas de gestão (ERPs) complexos para operar totalmente via WhatsApp e IA.
+keywords:
+  - erp oficina mecânica
+  - sistema gestão oficina
+  - automação whatsapp
+  - operação via whatsapp
+  - CoreAutoCRM
+category: Gestão
+tags:
+  - ERP
+  - WhatsApp
+  - Gestão Automotiva
+  - Produtividade
+cover_image: /images/posts/abandono-erp-migracao-whatsapp.svg
 published: true
+social_published:
+  - linkedin
+  - facebook
 ---
 
 Durante as últimas duas décadas, venderam aos donos de oficinas mecânicas uma grande mentira: **"Para a sua empresa crescer, você precisa de um ERP robusto"**. 

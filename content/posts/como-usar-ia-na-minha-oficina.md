@@ -1,16 +1,31 @@
 ---
-title: "Como usar IA na minha oficina: Guia prático de automação"
-slug: "como-usar-ia-na-minha-oficina"
-date: "2026-07-02"
-author: "Rogério Maciel"
-excerpt: "Descubra como a Inteligência Artificial pode automatizar orçamentos, atendimento e gestão na sua oficina mecânica."
-meta_title: "Como usar IA na sua Oficina Mecânica | CoreSites Blog"
-meta_description: "Aprenda o passo a passo para aplicar Inteligência Artificial na sua oficina mecânica e automatizar atendimento, orçamentos e agendamentos de clientes."
-keywords: ["IA para oficina mecânica", "automação de oficina", "atendimento com inteligência artificial", "CRM para oficina"]
-category: "Automação"
-tags: ["IA", "Oficina", "Gestão", "CRM"]
-cover_image: "/images/posts/como-usar-ia-na-minha-oficina.svg"
+title: 'Como usar IA na minha oficina: Guia prático de automação'
+slug: como-usar-ia-na-minha-oficina
+date: '2026-07-02'
+author: Rogério Maciel
+excerpt: >-
+  Descubra como a Inteligência Artificial pode automatizar orçamentos,
+  atendimento e gestão na sua oficina mecânica.
+meta_title: Como usar IA na sua Oficina Mecânica | CoreSites Blog
+meta_description: >-
+  Aprenda o passo a passo para aplicar Inteligência Artificial na sua oficina
+  mecânica e automatizar atendimento, orçamentos e agendamentos de clientes.
+keywords:
+  - IA para oficina mecânica
+  - automação de oficina
+  - atendimento com inteligência artificial
+  - CRM para oficina
+category: Automação
+tags:
+  - IA
+  - Oficina
+  - Gestão
+  - CRM
+cover_image: /images/posts/como-usar-ia-na-minha-oficina.svg
 published: true
+social_published:
+  - linkedin
+  - facebook
 ---
 
 A forma mais eficiente de usar IA na sua oficina não é apenas criando um "robô de atendimento", mas sim **transformando o WhatsApp no sistema operacional de toda a sua equipe**. Com sistemas avançados de gestão, como o CoreAutoCRM, tanto o cliente quanto o mecânico operam pelo mesmo canal, eliminando a papelada e a perda de tempo.
