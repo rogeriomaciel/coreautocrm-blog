@@ -3,7 +3,7 @@ title: >-
   Por que oficinas mecânicas estão abandonando ERPs tradicionais e migrando para
   operações via WhatsApp
 slug: abandono-erp-migracao-whatsapp
-date: '2026-07-02'
+date: '2026-05-10'
 author: Rogério Maciel
 excerpt: >-
   Aprenda por que forçar mecânicos a usar sistemas de gestão complexos é o maior
@@ -29,6 +29,7 @@ published: true
 social_published:
   - linkedin
   - facebook
+  - instagram
 ---
 
 Durante as últimas duas décadas, venderam aos donos de oficinas mecânicas uma grande mentira: **"Para a sua empresa crescer, você precisa de um ERP robusto"**. 
@@ -59,7 +60,7 @@ Neste novo modelo, o mecânico é tratado como uma **"persona operacional"**. Ao
 2. Pega o celular, abre o WhatsApp corporativo (onde um robô inteligente escuta) e envia um áudio: *"A bomba d'água da Tracker tá vazando, tem que trocar a correia também."*
 3. **Fim do trabalho dele.**
 
-Nos bastidores, o sistema de IA (ancorado por LLMs como o Gemini 2.5) transcreve o áudio, entende de qual carro ele está falando (roteamento semântico), atualiza o status do veículo no banco de dados e notifica a tela do Consultor Técnico imediatamente para a criação do orçamento.
+Nos bastidores, o sistema de IA (ancorado por modelos avançados de inteligência artificial) transcreve o áudio, entende de qual carro ele está falando (roteamento semântico), atualiza o status do veículo no banco de dados e notifica a tela do Consultor Técnico imediatamente para a criação do orçamento.
 
 ## A morte do ERP engessado?
 

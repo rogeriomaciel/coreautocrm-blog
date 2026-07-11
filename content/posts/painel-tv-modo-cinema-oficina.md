@@ -1,7 +1,7 @@
 ---
 title: 'O Fim da Prancheta no Pátio: Conheça o Painel TV Modo Cinema'
 slug: painel-tv-modo-cinema-oficina
-date: '2026-07-02'
+date: '2026-06-27'
 author: Rogério Maciel
 excerpt: >-
   Transforme o monitoramento da sua oficina mecânica substituindo planilhas por
@@ -27,6 +27,7 @@ published: true
 social_published:
   - linkedin
   - facebook
+  - instagram
 ---
 
 Se você caminhar pelo pátio de oficinas mecânicas tradicionais, vai encontrar o mesmo cenário de décadas atrás: [pranchetas penduradas, o uso do papelzinho sendo um problema](/post/fim-papelzinho-ia-oficinas), quadros brancos rabiscados e mecânicos perguntando constantemente "qual é o próximo carro?". Esse modelo não apenas gasta tempo, mas atrasa entregas.

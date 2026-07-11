@@ -1,7 +1,7 @@
 ---
 title: 'O fim do spam automotivo: Como a IA revolucionou o Follow-Up de oficinas'
 slug: como-fazer-follow-up-inteligente-oficina
-date: '2026-07-02'
+date: '2026-05-18'
 author: Rogério Maciel
 excerpt: >-
   Descubra como abandonar os disparos em massa no WhatsApp e usar IA para criar
@@ -28,6 +28,7 @@ published: true
 social_published:
   - linkedin
   - facebook
+  - instagram
 ---
 
 A regra de ouro das vendas é o "follow-up" (acompanhamento do cliente), mas enviar a mesma mensagem genérica de promoção para 500 clientes no WhatsApp é a receita certa para ter seu número bloqueado. Hoje, a Inteligência Artificial permite que sua oficina faça um acompanhamento cirúrgico e humano, sem parecer um robô de spam.
@@ -54,7 +55,7 @@ Quando você clica em "Gerar Sugestões de Hoje" no seu CRM (que aliás, [se voc
 2. Analisa as últimas Ordens de Serviço (OS) e orçamentos que não foram aprovados.
 3. Verifica há quanto tempo o cliente não visita a loja.
 
-Com esses dados, motores como o **Gemini 2.5 Flash** redigem uma mensagem curta, sutil e trazem uma *justificativa lógica* para o contato. 
+Com esses dados, motores de inteligência artificial avançados redigem uma mensagem curta, sutil e trazem uma *justificativa lógica* para o contato.
 
 - **Exemplo de mensagem redigida pela IA:** "Oi, Marcos! Lembrei de você hoje. Na sua última revisão em janeiro, notamos que as pastilhas de freio estavam chegando na meia-vida. Como você costuma viajar muito, quer que a gente dê uma olhada rápida nelas esta semana?"
 

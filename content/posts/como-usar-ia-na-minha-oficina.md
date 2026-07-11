@@ -1,7 +1,7 @@
 ---
 title: 'Como usar IA na minha oficina: Guia prático de automação'
 slug: como-usar-ia-na-minha-oficina
-date: '2026-07-02'
+date: '2026-05-22'
 author: Rogério Maciel
 excerpt: >-
   Descubra como a Inteligência Artificial pode automatizar orçamentos,
@@ -26,6 +26,7 @@ published: true
 social_published:
   - linkedin
   - facebook
+  - instagram
 ---
 
 A forma mais eficiente de usar IA na sua oficina não é apenas criando um "robô de atendimento", mas sim **transformando o WhatsApp no sistema operacional de toda a sua equipe**. Com sistemas avançados de gestão, como o CoreAutoCRM, tanto o cliente quanto o mecânico operam pelo mesmo canal, eliminando a papelada e a perda de tempo.

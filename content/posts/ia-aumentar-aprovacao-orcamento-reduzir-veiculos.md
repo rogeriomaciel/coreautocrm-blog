@@ -3,7 +3,7 @@ title: >-
   Como usar inteligência artificial para aumentar aprovação de orçamento e
   reduzir veículos parados
 slug: ia-aumentar-aprovacao-orcamento-reduzir-veiculos
-date: '2026-07-02'
+date: '2026-06-07'
 author: Rogério Maciel
 excerpt: >-
   Orçamentos complexos geram desconfiança. Descubra como a IA traduz o
@@ -29,6 +29,7 @@ published: true
 social_published:
   - linkedin
   - facebook
+  - instagram
 ---
 
 Existe uma regra de ouro em vendas automotivas: **O cliente não aprova o que ele não entende.** 
@@ -39,7 +40,7 @@ Quando você envia um PDF no WhatsApp com uma lista gigantesca de termos técnic
 
 A solução adotada pelo **CoreAutoCRM** para aumentar as aprovações e esvaziar o pátio rápido é colocar a Inteligência Artificial no meio do processo de comunicação (no que chamamos de Módulos Roteadores).
 
-Em vez de mandar a tabela crua, o consultor pede para a IA formular a mensagem. O Gemini entra em ação e "traduz" a peça técnica para o benefício real de segurança:
+Em vez de mandar a tabela crua, o consultor pede para a IA formular a mensagem. A IA entra em ação e "traduz" a peça técnica para o benefício real de segurança:
 *"Oi Marcos, analisamos o Civic. Aquela peça da suspensão (bieleta) que mantém o carro estável nas curvas quebrou. Por segurança, principalmente se você for pegar rodovia, precisamos substituir. O valor total com mão de obra ficou R$ X."*
 
 O cliente compreende o valor da segurança, se sente respeitado e aprova mais rápido. Tudo diretamente dentro de uma interface conversacional fluida no WhatsApp, sem exigir downloads de arquivos ou longas ligações.

@@ -3,7 +3,7 @@ title: >-
   Por que a maioria dos CRMs para oficina falha na prática (e como resolver
   isso)
 slug: por-que-crms-oficina-falham
-date: '2026-07-02'
+date: '2026-07-01'
 author: Rogério Maciel
 excerpt: >-
   Você comprou um sistema de CRM, mas ninguém alimenta os dados? Descubra por
@@ -29,6 +29,7 @@ published: true
 social_published:
   - linkedin
   - facebook
+  - instagram
 ---
 
 A cena é clássica: o dono da oficina mecânica vai a uma feira do setor automotivo, assiste a uma palestra incrível sobre "Aumentar as vendas retendo clientes", e decide comprar o melhor CRM (Customer Relationship Management) do mercado. 
@@ -47,7 +48,7 @@ Na teoria, é perfeito. Na loucura do pátio de uma oficina real, é impossível
 
 Para resolver essa falha estrutural, o [**CoreAutoCRM** inverteu a lógica de funcionamento adotando o modelo AI-Native](/post/oficina-ai-native-gestao-automotiva). O sistema não pede para você digitar o que conversou com o cliente; ele **escuta a sua conversa natural (via WhatsApp) e preenche o CRM sozinho**.
 
-Como isso é possível? Graças a motores de linguagem (LLMs) como o Gemini, a Inteligência Artificial extrai o contexto da conversa passivamente.
+Como isso é possível? Graças a modelos de linguagem modernos (LLMs), a Inteligência Artificial extrai o contexto da conversa passivamente.
 
 - **Exemplo Prático:** O cliente manda mensagem perguntando de pneu. O consultor responde pelo KaduChatDialog (a tela de bate-papo do CoreAutoCRM). O sistema lê a conversa, atualiza a ficha do cliente ("Interesse em pneus"), altera o status do lead no funil de vendas, e salva o histórico. Ninguém precisou abrir uma ficha e digitar nada.
 

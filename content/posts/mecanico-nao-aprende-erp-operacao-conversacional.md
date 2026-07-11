@@ -1,7 +1,7 @@
 ---
 title: 'O mecânico não quer aprender ERP: a nova era da operação conversacional'
 slug: mecanico-nao-aprende-erp-operacao-conversacional
-date: '2026-07-02'
+date: '2026-06-19'
 author: Rogério Maciel
 excerpt: >-
   Forçar sua equipe de pátio a preencher sistemas complexos destrói a
@@ -27,6 +27,7 @@ published: true
 social_published:
   - linkedin
   - facebook
+  - instagram
 ---
 
 Existe um abismo entre o dono da oficina que compra um software de gestão e o mecânico que é obrigado a usá-lo. O gestor ama gráficos, relatórios e controle de estoque. O mecânico ama consertar carros, detesta burocracia e, quase sempre, foge de telas cheias de botões.

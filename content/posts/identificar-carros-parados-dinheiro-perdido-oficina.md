@@ -1,7 +1,7 @@
 ---
 title: Como identificar carros parados e dinheiro perdido dentro da sua oficina
 slug: identificar-carros-parados-dinheiro-perdido-oficina
-date: '2026-07-02'
+date: '2026-06-11'
 author: Rogério Maciel
 excerpt: >-
   Um carro parado no elevador esperando peça ou aprovação não é inofensivo; ele
@@ -27,6 +27,7 @@ published: true
 social_published:
   - linkedin
   - facebook
+  - instagram
 ---
 
 Existe uma ilusão muito comum no setor automotivo: a de que uma oficina cheia de carros é sinônimo de sucesso. Muitas vezes, é exatamente o oposto. Se o seu pátio parece um estacionamento lotado de shopping center, é bem provável que você esteja perdendo dinheiro.

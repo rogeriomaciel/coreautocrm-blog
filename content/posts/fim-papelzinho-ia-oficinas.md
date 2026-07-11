@@ -3,7 +3,7 @@ title: >-
   O fim do “papelzinho”: como a IA está organizando oficinas mecânicas em tempo
   real
 slug: fim-papelzinho-ia-oficinas
-date: '2026-07-02'
+date: '2026-05-30'
 author: Rogério Maciel
 excerpt: >-
   Descubra como os pequenos pedaços de papel estão sangrando o lucro da sua
@@ -30,6 +30,7 @@ published: true
 social_published:
   - linkedin
   - facebook
+  - instagram
 ---
 
 Toda oficina mecânica que cresce enfrenta um inimigo invisível, sorrateiro e extremamente perigoso: o **“papelzinho”**.

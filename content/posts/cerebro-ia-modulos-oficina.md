@@ -1,7 +1,7 @@
 ---
 title: 'O Cérebro da sua Oficina: Como treinar uma IA para cada setor'
 slug: cerebro-ia-modulos-oficina
-date: '2026-07-02'
+date: '2026-05-14'
 author: Rogério Maciel
 excerpt: >-
   Sua oficina não precisa de um chatbot genérico, mas sim de módulos cognitivos
@@ -27,6 +27,7 @@ published: true
 social_published:
   - linkedin
   - facebook
+  - instagram
 ---
 
 Quando a maioria das oficinas tenta adotar Inteligência Artificial, elas cometem um erro crasso: colocam um único "chatbot genérico" para tentar resolver todos os problemas ao mesmo tempo. O resultado é um robô confuso que perde orçamentos. Se você não sabe [como usar IA na sua oficina de forma correta](/post/como-usar-ia-na-minha-oficina), o projeto pode fracassar.

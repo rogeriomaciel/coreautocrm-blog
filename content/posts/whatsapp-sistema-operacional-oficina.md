@@ -1,7 +1,7 @@
 ---
 title: Como transformar o WhatsApp no sistema operacional da sua oficina
 slug: whatsapp-sistema-operacional-oficina
-date: '2026-07-02'
+date: '2026-07-05'
 author: Rogério Maciel
 excerpt: >-
   Pare de usar o WhatsApp apenas para responder clientes. Descubra como ele pode
@@ -28,6 +28,7 @@ published: true
 social_published:
   - linkedin
   - facebook
+  - instagram
 ---
 
 A maioria das oficinas mecânicas no Brasil utiliza o WhatsApp de forma extremamente limitante: apenas como um chat glorificado para enviar orçamentos (geralmente em pesados arquivos PDF) ou para dizer ao cliente que "o carro tá pronto". 
@@ -59,7 +60,7 @@ O WhatsApp como sistema operacional permite que a IA resuma o diagnóstico em li
 
 Para que o WhatsApp deixe de ser um chat e vire um sistema, não basta ligar uma automação simples. É necessário um **Cérebro de IA**. 
 
-No CoreAutoCRM, nós conectamos o motor da OpenAI ou Gemini diretamente à API do WhatsApp. O resultado? O sistema não usa menus burros numéricos (do tipo "Digite 1, Digite 2"). Ele entende o contexto humano. 
+No CoreAutoCRM, nós conectamos o motor da nossa inteligência artificial diretamente à API do WhatsApp. O resultado? O sistema não usa menus burros numéricos (do tipo "Digite 1, Digite 2"). Ele entende o contexto humano. 
 
 Se o mecânico relatar um problema em um carro que não existe na agenda dele, o WhatsApp não vai travar; a IA vai responder: *"Não encontrei esse carro na sua lista, tem certeza que a placa é essa?"*. É um sistema resiliente, conversacional e, acima de tudo, **invisível**.
 

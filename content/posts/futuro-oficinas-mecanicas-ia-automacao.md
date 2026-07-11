@@ -1,7 +1,7 @@
 ---
 title: 'O futuro das oficinas mecânicas: IA, automação e operação em tempo real'
 slug: futuro-oficinas-mecanicas-ia-automacao
-date: '2026-07-02'
+date: '2026-06-03'
 author: Rogério Maciel
 excerpt: >-
   Esqueça robôs consertando motores. O futuro já chegou e está na gestão de
@@ -28,6 +28,7 @@ published: true
 social_published:
   - linkedin
   - facebook
+  - instagram
 ---
 
 Quando falamos de "oficina do futuro", muita gente imagina braços robóticos consertando motores ou carros que se arrumam sozinhos. Mas a verdadeira revolução tecnológica no mercado de reposição automotiva é muito mais sutil, invisível e extremamente lucrativa. Ela acontece nos **dados**.

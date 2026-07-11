@@ -3,7 +3,7 @@ title: >-
   Oficina AI-Native: o novo modelo de gestão que está surgindo no setor
   automotivo
 slug: oficina-ai-native-gestao-automotiva
-date: '2026-07-02'
+date: '2026-06-23'
 author: Rogério Maciel
 excerpt: >-
   Você não precisa colocar 'Inteligência Artificial' num sistema velho. Descubra
@@ -29,6 +29,7 @@ published: true
 social_published:
   - linkedin
   - facebook
+  - instagram
 ---
 
 Existe uma grande diferença entre colocar um motor elétrico no chassi de um Opala antigo e desenhar um carro elétrico da Tesla do zero. O primeiro vai andar, mas vai ser pesado, ineficiente e cheio de gambiarras. O segundo foi projetado *para* ser elétrico.
@@ -53,7 +54,7 @@ Sistemas **AI-Native** usam o que chamamos de "Módulo Pivot". Se o cliente inte
 
 ### 3. Escalonamento sem Inchaço de Equipe
 Uma oficina tradicional que dobra de tamanho precisa de mais atendentes, mais orçamentistas e mais pessoas para cobrar follow-up. 
-Uma oficina guiada por um sistema AI-Native escala apenas o pátio (mecânicos e espaço). Todo o esforço burocrático de compilar orçamentos, avisar clientes e gerar planilhas de ocupação (Heatmaps da TV) é processado silenciosamente pelo motor da LLM (Gemini/OpenAI).
+Uma oficina guiada por um sistema AI-Native escala apenas o pátio (mecânicos e espaço). Todo o esforço burocrático de compilar orçamentos, avisar clientes e gerar planilhas de ocupação (Heatmaps da TV) é processado silenciosamente por modelos avançados de IA.
 
 ## O Futuro é Invisível
 

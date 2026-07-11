@@ -3,7 +3,7 @@ title: >-
   O maior problema da sua oficina não é falta de clientes — é gargalo
   operacional
 slug: maior-problema-oficina-gargalo-operacional
-date: '2026-07-02'
+date: '2026-06-15'
 author: Rogério Maciel
 excerpt: >-
   Descubra por que investir em marketing sem resolver o fluxo da sua oficina
@@ -30,6 +30,7 @@ published: true
 social_published:
   - linkedin
   - facebook
+  - instagram
 ---
 
 Pergunte a 10 donos de oficinas mecânicas qual é o maior desafio do negócio deles hoje, e 8 responderão prontamente: *"Preciso de mais clientes, preciso lotar minha agenda"*. 

@@ -1,7 +1,7 @@
 ---
 title: 'Mecânico de mãos sujas não digita: Diagnóstico por WhatsApp'
 slug: diagnostico-mecanico-por-voz-whatsapp
-date: '2026-07-02'
+date: '2026-05-26'
 author: Rogério Maciel
 excerpt: >-
   O maior gargalo da tecnologia em oficinas mecânicas é o teclado. Entenda como
@@ -28,6 +28,7 @@ published: true
 social_published:
   - linkedin
   - facebook
+  - instagram
 ---
 
 A maior resistência à adoção de tecnologia dentro do pátio da oficina tem um motivo muito justo: **teclados, mouses e mãos cheias de graxa simplesmente não combinam**. 
@@ -44,7 +45,7 @@ O mecânico é cadastrado no sistema não como um cliente, mas como uma "persona
 
 ## Apontamento e Diagnóstico por Voz
 
-A mágica acontece quando integramos transcrição de áudio avançada (como a da ElevenLabs) com modelos de linguagem (como o Gemini 2.5 Flash).
+A mágica acontece quando integramos transcrição de áudio avançada com modelos de linguagem de última geração.
 
 **A rotina real no pátio:**
 1. O mecânico avalia os freios de um Honda Civic placa ABC-1234.
