@@ -1,16 +1,29 @@
 ---
-title: 'Como padronizar o atendimento na oficina mecânica e parar de apagar incêndio'
-slug: 'como-padronizar-atendimento-oficina-mecanica-parar-apagar-incendio'
+title: Como padronizar o atendimento na oficina mecânica e parar de apagar incêndio
+slug: como-padronizar-atendimento-oficina-mecanica-parar-apagar-incendio
 date: '2026-07-20'
-author: 'Rogério Maciel'
-excerpt: 'Descubra como a falta de padronização no atendimento transforma a sua oficina num caos e como um Sistema Operacional Conversacional pode devolver sua paz.'
+author: Rogério Maciel
+excerpt: Descubra como a falta de padronização no atendimento transforma a sua oficina num caos e como um Sistema Operacional Conversacional pode devolver sua paz.
 meta_title: 'Padronizar Atendimento na Oficina: Como Parar de Apagar Incêndios'
-meta_description: 'Sua oficina mecânica vive no caos? Entenda como padronizar o atendimento ao cliente e parar de apagar incêndios com um sistema AI-Native via WhatsApp.'
-keywords: ["padronizar atendimento oficina", "apagar incêndio na oficina", "gestão de oficina mecânica", "sistema para oficina", "coreautocrm"]
-category: 'Gestão'
-tags: ["Gestão", "Atendimento", "Padronização", "CoreAutoCRM"]
-cover_image: '/images/posts/como-padronizar-atendimento-oficina-mecanica-parar-apagar-incendio-base.png'
+meta_description: Sua oficina mecânica vive no caos? Entenda como padronizar o atendimento ao cliente e parar de apagar incêndios com um sistema AI-Native via WhatsApp.
+keywords:
+  - padronizar atendimento oficina
+  - apagar incêndio na oficina
+  - gestão de oficina mecânica
+  - sistema para oficina
+  - coreautocrm
+category: Gestão
+tags:
+  - Gestão
+  - Atendimento
+  - Padronização
+  - CoreAutoCRM
+cover_image: /images/posts/como-padronizar-atendimento-oficina-mecanica-parar-apagar-incendio-base.png
 published: true
+social_published:
+  - linkedin
+  - facebook
+  - instagram
 ---
 
 A cena é clássica: o telefone toca, o WhatsApp apita, tem dois clientes na recepção buzinando, e você — o dono da oficina — está debaixo de um carro tentando descobrir um problema no chicote elétrico.

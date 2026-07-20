@@ -1,16 +1,29 @@
 ---
-title: 'O que o dono de oficina mecânica deve delegar para ter tempo livre?'
-slug: 'o-que-dono-de-oficina-mecanica-deve-delegar-tempo-livre'
+title: O que o dono de oficina mecânica deve delegar para ter tempo livre?
+slug: o-que-dono-de-oficina-mecanica-deve-delegar-tempo-livre
 date: '2026-07-20'
-author: 'Rogério Maciel'
-excerpt: 'Descubra as 3 tarefas principais que todo dono de oficina deve parar de fazer hoje mesmo para recuperar seu final de semana.'
-meta_title: 'O que Delegar na Oficina Mecânica para Ter Mais Tempo Livre'
-meta_description: 'Quer ter o final de semana livre? Veja as 3 tarefas que o dono de oficina mecânica precisa delegar urgentemente para escalar a gestão e aumentar os lucros.'
-keywords: ["delegar tarefas", "gestão de oficina mecânica", "produtividade dono de oficina", "tempo livre", "coreautocrm"]
-category: 'Gestão'
-tags: ["Gestão", "Produtividade", "Delegação", "Dono de Oficina"]
-cover_image: '/images/posts/o-que-dono-de-oficina-mecanica-deve-delegar-tempo-livre-base.png'
+author: Rogério Maciel
+excerpt: Descubra as 3 tarefas principais que todo dono de oficina deve parar de fazer hoje mesmo para recuperar seu final de semana.
+meta_title: O que Delegar na Oficina Mecânica para Ter Mais Tempo Livre
+meta_description: Quer ter o final de semana livre? Veja as 3 tarefas que o dono de oficina mecânica precisa delegar urgentemente para escalar a gestão e aumentar os lucros.
+keywords:
+  - delegar tarefas
+  - gestão de oficina mecânica
+  - produtividade dono de oficina
+  - tempo livre
+  - coreautocrm
+category: Gestão
+tags:
+  - Gestão
+  - Produtividade
+  - Delegação
+  - Dono de Oficina
+cover_image: /images/posts/o-que-dono-de-oficina-mecanica-deve-delegar-tempo-livre-base.png
 published: true
+social_published:
+  - linkedin
+  - facebook
+  - instagram
 ---
 
 A rotina de um dono de oficina mecânica quase sempre segue o mesmo padrão: você chega cedo, abre o portão, ajuda a manobrar carros, atende telefone, fecha orçamentos, compra peças e ainda tenta consertar carros difíceis. No final do dia, a sensação é de estar exausto, mas com pouco dinheiro na conta e nenhum final de semana livre.

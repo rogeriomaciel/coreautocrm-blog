@@ -1,16 +1,29 @@
 ---
-title: 'Como calcular o tempo que a oficina perde no atendimento via WhatsApp?'
-slug: 'como-calcular-tempo-perdido-atendimento-oficina-whatsapp'
+title: Como calcular o tempo que a oficina perde no atendimento via WhatsApp?
+slug: como-calcular-tempo-perdido-atendimento-oficina-whatsapp
 date: '2026-07-20'
-author: 'Rogério Maciel'
-excerpt: 'Descubra a fórmula simples para calcular quantas horas você perde respondendo mensagens no WhatsApp e veja como automatizar seu atendimento.'
-meta_title: 'Calculadora de Tempo Perdido no WhatsApp da Oficina Mecânica'
-meta_description: 'Aprenda a calcular exatamente quantas horas sua oficina mecânica perde toda semana com atendimentos repetitivos no WhatsApp. Pare de perder tempo e facture mais.'
-keywords: ["tempo perdido whatsapp", "atendimento oficina mecânica", "automação de atendimento", "gestão de oficina", "coreautocrm"]
-category: 'Automação'
-tags: ["Gestão de Tempo", "WhatsApp API", "Atendimento", "CoreAutoCRM"]
-cover_image: '/images/posts/como-calcular-tempo-perdido-atendimento-oficina-whatsapp-base.png'
+author: Rogério Maciel
+excerpt: Descubra a fórmula simples para calcular quantas horas você perde respondendo mensagens no WhatsApp e veja como automatizar seu atendimento.
+meta_title: Calculadora de Tempo Perdido no WhatsApp da Oficina Mecânica
+meta_description: Aprenda a calcular exatamente quantas horas sua oficina mecânica perde toda semana com atendimentos repetitivos no WhatsApp. Pare de perder tempo e facture mais.
+keywords:
+  - tempo perdido whatsapp
+  - atendimento oficina mecânica
+  - automação de atendimento
+  - gestão de oficina
+  - coreautocrm
+category: Automação
+tags:
+  - Gestão de Tempo
+  - WhatsApp API
+  - Atendimento
+  - CoreAutoCRM
+cover_image: /images/posts/como-calcular-tempo-perdido-atendimento-oficina-whatsapp-base.png
 published: true
+social_published:
+  - linkedin
+  - facebook
+  - instagram
 ---
 
 A sua oficina mecânica provavelmente sofre com um mal silencioso: o **ralo invisível de tempo no WhatsApp**. Responder "qual o valor da troca de óleo?" ou "meu carro já está pronto?" pode parecer algo rápido, mas quando somado ao longo da semana, essas pequenas interrupções roubam horas preciosas que você poderia usar para faturar mais.
