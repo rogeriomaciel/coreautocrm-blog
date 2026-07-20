@@ -9,7 +9,7 @@ meta_description: 'The lack of time in a mechanic shop isn''t about too many cus
 keywords: ["mechanic shop lack of time", "how to manage auto repair shop", "difference managing software leading operation", "mechanic shop automation", "auto repair shop system"]
 category: 'Automation'
 tags: ["Management", "Automation", "AI", "ERP"]
-cover_image: '/images/posts/como-acabar-falta-de-tempo-dono-oficina-mecanica.svg'
+cover_image: '/images/posts/how-to-end-mechanic-shop-owner-lack-of-time.svg'
 published: true
 ---
 
