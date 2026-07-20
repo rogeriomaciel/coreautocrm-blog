@@ -1,16 +1,29 @@
 ---
-title: 'Como acabar com a falta de tempo do dono da oficina mecânica'
-slug: 'como-acabar-falta-de-tempo-dono-oficina-mecanica'
+title: Como acabar com a falta de tempo do dono da oficina mecânica
+slug: como-acabar-falta-de-tempo-dono-oficina-mecanica
 date: '2026-07-20'
-author: 'Rogério Maciel'
-excerpt: 'Aprenda a diferença entre gerenciar um software e liderar de fato a operação da sua oficina.'
-meta_title: 'Como Acabar com a Falta de Tempo do Dono da Oficina | CoreSites'
+author: Rogério Maciel
+excerpt: Aprenda a diferença entre gerenciar um software e liderar de fato a operação da sua oficina.
+meta_title: Como Acabar com a Falta de Tempo do Dono da Oficina | CoreSites
 meta_description: 'A falta de tempo na oficina não é excesso de clientes, é microgerenciamento de sistemas. Descubra a diferença entre gerenciar software e liderar a operação.'
-keywords: ["falta de tempo dono de oficina", "como gerenciar oficina mecanica", "diferença gerenciar software liderar operação", "automação oficina mecanica", "sistema para oficina mecânica"]
-category: 'Automação'
-tags: ["Gestão", "Automação", "IA", "ERP"]
-cover_image: '/images/posts/como-acabar-falta-de-tempo-dono-oficina-mecanica.svg'
+keywords:
+  - falta de tempo dono de oficina
+  - como gerenciar oficina mecanica
+  - diferença gerenciar software liderar operação
+  - automação oficina mecanica
+  - sistema para oficina mecânica
+category: Automação
+tags:
+  - Gestão
+  - Automação
+  - IA
+  - ERP
+cover_image: /images/posts/como-acabar-falta-de-tempo-dono-oficina-mecanica.svg
 published: true
+social_published:
+  - linkedin
+  - instagram
+  - facebook
 ---
 
 A falta de tempo do dono da oficina mecânica raramente é causada pelo excesso de clientes na porta; ela acontece devido ao microgerenciamento e à dependência de sistemas de gestão (ERPs) que exigem ser alimentados manualmente o tempo todo. Para resolver isso, você precisa parar de "gerenciar o software" (preencher cadastros, criar checklists manuais e lançar peças) e começar a **liderar a operação**, delegando o trabalho robótico de entrada de dados para a Inteligência Artificial e focando na aprovação de orçamentos e no relacionamento estratégico com o cliente.
