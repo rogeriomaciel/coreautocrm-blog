@@ -20,6 +20,10 @@ tags:
   - CoreAutoCRM
 cover_image: /images/posts/notificacao-automatica-ordem-servico-whatsapp-oficina-base.png
 published: true
+social_published:
+  - linkedin
+  - facebook
+  - instagram
 ---
 
 Existe uma pergunta que todo dono de oficina mecânica ou recepcionista ouve pelo menos 30 vezes por dia: **"E aí, chefe! O meu carro já está pronto?"**.

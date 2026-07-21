@@ -20,6 +20,10 @@ tags:
   - CoreAutoCRM
 cover_image: /images/posts/fim-dos-disparos-em-massa-whatsapp-oficina-mecanica-base.png
 published: true
+social_published:
+  - linkedin
+  - facebook
+  - instagram
 ---
 
 Se a sua oficina mecânica ainda depende de contratar softwares de envio em massa para mandar promoções de "troca de óleo com desconto" para 5.000 contatos de uma vez, **é hora de parar imediatamente**. 

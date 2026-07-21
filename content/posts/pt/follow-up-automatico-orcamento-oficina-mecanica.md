@@ -20,6 +20,10 @@ tags:
   - CoreAutoCRM
 cover_image: /images/posts/follow-up-automatico-orcamento-oficina-mecanica-base.png
 published: true
+social_published:
+  - linkedin
+  - facebook
+  - instagram
 ---
 
 A cena é dolorosamente comum: o motorista entra em contato no WhatsApp da sua oficina pedindo o orçamento para trocar os amortecedores. Você para o que está fazendo, calcula o valor das peças na autopeças, soma a mão de obra, digita uma mensagem detalhada e envia.
