@@ -1,16 +1,29 @@
 ---
 title: 'Guia Prático da Oficina AI-Native: Saindo da Teoria'
-slug: 'guia-pratico-oficina-ai-native-saindo-teoria'
+slug: guia-pratico-oficina-ai-native-saindo-teoria
 date: '2026-07-20'
-author: 'Rogério Maciel'
+author: Rogério Maciel
 excerpt: 'Aprenda o passo a passo exato para transformar sua oficina comum em uma operação AI-Native, gerida por dados e Inteligência Artificial.'
-meta_title: 'Como montar uma Oficina AI-Native na Prática | CoreSites'
-meta_description: 'Chega de teoria. Veja o passo a passo com telas reais de como configurar uma oficina AI-Native usando o CoreAutoCRM para dobrar a produtividade mecânica.'
-keywords: ['oficina ai-native', 'gestão de oficina', 'passo a passo', 'coreautocrm', 'inteligência artificial mecânica']
-category: 'IA'
-tags: ['Inteligência Artificial', 'Gestão', 'AI-Native', 'CoreAutoCRM']
-cover_image: '/images/posts/guia-pratico-oficina-ai-native-saindo-teoria-base.png'
+meta_title: Como montar uma Oficina AI-Native na Prática | CoreSites
+meta_description: Chega de teoria. Veja o passo a passo com telas reais de como configurar uma oficina AI-Native usando o CoreAutoCRM para dobrar a produtividade mecânica.
+keywords:
+  - oficina ai-native
+  - gestão de oficina
+  - passo a passo
+  - coreautocrm
+  - inteligência artificial mecânica
+category: IA
+tags:
+  - Inteligência Artificial
+  - Gestão
+  - AI-Native
+  - CoreAutoCRM
+cover_image: /images/posts/guia-pratico-oficina-ai-native-saindo-teoria-base.png
 published: true
+social_published:
+  - linkedin
+  - facebook
+  - instagram
 ---
 
 Ser "AI-Native" não é sobre ter robôs consertando motores. É sobre ter Inteligência Artificial assumindo toda a parte burocrática, repetitiva e de atendimento, enquanto os humanos (você e seus mecânicos) focam naquilo que realmente gera valor: o serviço bem executado e o relacionamento final com o cliente.

@@ -1,16 +1,29 @@
 ---
-title: 'Como as oficinas de Goiânia estão usando IA no WhatsApp para vender mais'
-slug: 'como-oficinas-goiania-usam-ia-whatsapp-vender-mais'
+title: Como as oficinas de Goiânia estão usando IA no WhatsApp para vender mais
+slug: como-oficinas-goiania-usam-ia-whatsapp-vender-mais
 date: '2026-07-20'
-author: 'Rogério Maciel'
-excerpt: 'Descubra como transformar o WhatsApp da sua oficina em uma máquina de vendas autônoma que funciona 24/7 sem depender do seu tempo.'
-meta_title: 'Oficinas em Goiânia usam IA no WhatsApp para Vendas | CoreSites'
-meta_description: 'Entenda a tática que oficinas mecânicas de Goiânia estão usando para dobrar agendamentos automáticos no WhatsApp usando Inteligência Artificial (AI-Native).'
-keywords: ['WhatsApp para oficinas', 'CoreAutoCRM', 'IA para mecânicas', 'atendimento automatizado', 'vendas oficina']
-category: 'Automação'
-tags: ['WhatsApp', 'Vendas', 'Inteligência Artificial', 'Goiânia']
-cover_image: '/images/posts/como-oficinas-goiania-usam-ia-whatsapp-vender-mais-base.png'
+author: Rogério Maciel
+excerpt: Descubra como transformar o WhatsApp da sua oficina em uma máquina de vendas autônoma que funciona 24/7 sem depender do seu tempo.
+meta_title: Oficinas em Goiânia usam IA no WhatsApp para Vendas | CoreSites
+meta_description: Entenda a tática que oficinas mecânicas de Goiânia estão usando para dobrar agendamentos automáticos no WhatsApp usando Inteligência Artificial (AI-Native).
+keywords:
+  - WhatsApp para oficinas
+  - CoreAutoCRM
+  - IA para mecânicas
+  - atendimento automatizado
+  - vendas oficina
+category: Automação
+tags:
+  - WhatsApp
+  - Vendas
+  - Inteligência Artificial
+  - Goiânia
+cover_image: /images/posts/como-oficinas-goiania-usam-ia-whatsapp-vender-mais-base.png
 published: true
+social_published:
+  - linkedin
+  - facebook
+  - instagram
 ---
 
 A resposta é direta: elas pararam de tratar o WhatsApp como uma simples ferramenta de mensagens e o transformaram no **Sistema Operacional principal da oficina**, conectando Inteligência Artificial para realizar triagem, orçamentos iniciais e agendamentos enquanto o dono foca na operação.
