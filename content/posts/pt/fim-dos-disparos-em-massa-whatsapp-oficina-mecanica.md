@@ -1,15 +1,24 @@
 ---
 title: 'O fim dos disparos em massa no WhatsApp: Como oficinas vendem sem tomar bloqueio'
-slug: 'fim-dos-disparos-em-massa-whatsapp-oficina-mecanica'
+slug: fim-dos-disparos-em-massa-whatsapp-oficina-mecanica
 date: '2026-07-21'
-author: 'Rogério Maciel'
-excerpt: 'Descubra como o novo algoritmo do WhatsApp pune disparos em massa e veja a estratégia segura para sua oficina vender mais pelo aplicativo.'
-meta_title: 'Fim dos Disparos em Massa no WhatsApp da Oficina Mecânica'
-meta_description: 'Sua oficina faz disparos em massa no WhatsApp? Cuidado com o bloqueio do chip! Veja como vender serviços automotivos com segurança e engajamento real.'
-keywords: ["disparo em massa whatsapp", "bloqueio whatsapp oficina", "marketing oficina mecanica", "whatsapp business api", "coreautocrm"]
-category: 'Automação'
-tags: ["WhatsApp", "Marketing Automotivo", "Vendas", "CoreAutoCRM"]
-cover_image: '/images/posts/fim-dos-disparos-em-massa-whatsapp-oficina-mecanica-base.png'
+author: Rogério Maciel
+excerpt: Descubra como o novo algoritmo do WhatsApp pune disparos em massa e veja a estratégia segura para sua oficina vender mais pelo aplicativo.
+meta_title: Fim dos Disparos em Massa no WhatsApp da Oficina Mecânica
+meta_description: Sua oficina faz disparos em massa no WhatsApp? Cuidado com o bloqueio do chip! Veja como vender serviços automotivos com segurança e engajamento real.
+keywords:
+  - disparo em massa whatsapp
+  - bloqueio whatsapp oficina
+  - marketing oficina mecanica
+  - whatsapp business api
+  - coreautocrm
+category: Automação
+tags:
+  - WhatsApp
+  - Marketing Automotivo
+  - Vendas
+  - CoreAutoCRM
+cover_image: /images/posts/fim-dos-disparos-em-massa-whatsapp-oficina-mecanica-base.png
 published: true
 ---
 

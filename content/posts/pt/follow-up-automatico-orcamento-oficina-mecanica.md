@@ -1,15 +1,24 @@
 ---
-title: 'Orçamento no vácuo? Como fazer o follow-up automático na oficina mecânica'
-slug: 'follow-up-automatico-orcamento-oficina-mecanica'
+title: Orçamento no vácuo? Como fazer o follow-up automático na oficina mecânica
+slug: follow-up-automatico-orcamento-oficina-mecanica
 date: '2026-07-21'
-author: 'Rogério Maciel'
-excerpt: 'Aprenda a recuperar orçamentos parados no WhatsApp com uma sequência automática e amigável de acompanhamento de vendas.'
-meta_title: 'Follow-up Automático de Orçamentos na Oficina Mecânica'
-meta_description: 'Seu cliente pede orçamento no WhatsApp e some? Veja como o follow-up automático aumenta a taxa de aprovação de orçamentos na sua oficina em até 30%.'
-keywords: ["follow up oficina mecanica", "orcamento parado whatsapp", "aprovação de orçamento automotivo", "vendas oficina mecanica", "coreautocrm"]
-category: 'Gestão'
-tags: ["Vendas", "Follow-up", "WhatsApp", "CoreAutoCRM"]
-cover_image: '/images/posts/follow-up-automatico-orcamento-oficina-mecanica-base.png'
+author: Rogério Maciel
+excerpt: Aprenda a recuperar orçamentos parados no WhatsApp com uma sequência automática e amigável de acompanhamento de vendas.
+meta_title: Follow-up Automático de Orçamentos na Oficina Mecânica
+meta_description: Seu cliente pede orçamento no WhatsApp e some? Veja como o follow-up automático aumenta a taxa de aprovação de orçamentos na sua oficina em até 30%.
+keywords:
+  - follow up oficina mecanica
+  - orcamento parado whatsapp
+  - aprovação de orçamento automotivo
+  - vendas oficina mecanica
+  - coreautocrm
+category: Gestão
+tags:
+  - Vendas
+  - Follow-up
+  - WhatsApp
+  - CoreAutoCRM
+cover_image: /images/posts/follow-up-automatico-orcamento-oficina-mecanica-base.png
 published: true
 ---
 

@@ -1,15 +1,24 @@
 ---
 title: 'Notificação automática de Ordem de Serviço: Como avisar o cliente sem ligar'
-slug: 'notificacao-automatica-ordem-servico-whatsapp-oficina'
+slug: notificacao-automatica-ordem-servico-whatsapp-oficina
 date: '2026-07-21'
-author: 'Rogério Maciel'
-excerpt: 'Reduza em até 80% as ligações de clientes perguntando se o carro está pronto com notificações automáticas de OS via WhatsApp.'
-meta_title: 'Notificação Automática de Ordem de Serviço via WhatsApp'
-meta_description: 'Descubra como automatizar os avisos de status de Ordem de Serviço na sua oficina mecânica via WhatsApp. Pare de perder tempo no telefone e encante clientes.'
-keywords: ["ordem de servico whatsapp", "notificação automatica oficina", "status de reparo veiculo", "automação oficina mecanica", "coreautocrm"]
-category: 'Automação'
-tags: ["Ordem de Serviço", "WhatsApp API", "Produtividade", "CoreAutoCRM"]
-cover_image: '/images/posts/notificacao-automatica-ordem-servico-whatsapp-oficina-base.png'
+author: Rogério Maciel
+excerpt: Reduza em até 80% as ligações de clientes perguntando se o carro está pronto com notificações automáticas de OS via WhatsApp.
+meta_title: Notificação Automática de Ordem de Serviço via WhatsApp
+meta_description: Descubra como automatizar os avisos de status de Ordem de Serviço na sua oficina mecânica via WhatsApp. Pare de perder tempo no telefone e encante clientes.
+keywords:
+  - ordem de servico whatsapp
+  - notificação automatica oficina
+  - status de reparo veiculo
+  - automação oficina mecanica
+  - coreautocrm
+category: Automação
+tags:
+  - Ordem de Serviço
+  - WhatsApp API
+  - Produtividade
+  - CoreAutoCRM
+cover_image: /images/posts/notificacao-automatica-ordem-servico-whatsapp-oficina-base.png
 published: true
 ---
 
