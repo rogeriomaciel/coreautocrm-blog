@@ -1,17 +1,11 @@
 ---
-title: >-
-  Por que sua Oficina Mecânica não precisa de mais Dashboards: Conheça o Conselho
-  de IA e sua Diretoria Virtual 24/7
+title: 'Por que sua Oficina Mecânica não precisa de mais Dashboards: Conheça o Conselho de IA e sua Diretoria Virtual 24/7'
 slug: conselho-ia-diretoria-virtual-oficina-mecanica
 date: '2026-07-22'
 author: Rogério Maciel
-excerpt: >-
-  Gráficos coloridos não salvam sua oficina. Entenda como o Conselho de IA transforma
-  dados do seu pátio em recomendações práticas do CEO, CFO, CMO e PM em tempo real.
+excerpt: 'Gráficos coloridos não salvam sua oficina. Entenda como o Conselho de IA transforma dados do seu pátio em recomendações práticas do CEO, CFO, CMO e PM em tempo real.'
 meta_title: 'Conselho de IA para Oficinas Mecânicas: Diretoria Virtual 24/7 | CoreSites'
-meta_description: >-
-  Descubra como a Inteligência Prescritiva do Conselho de IA auditando WhatsApp,
-  peças e orçamentos substitui dashboards passivos por plano de ação imediato na sua oficina.
+meta_description: 'Descubra como a Inteligência Prescritiva do Conselho de IA auditando WhatsApp, peças e orçamentos substitui dashboards passivos por plano de ação imediato na sua oficina.'
 keywords:
   - conselho de ia oficina
   - ia para oficina mecanica
@@ -28,7 +22,10 @@ tags:
   - WhatsApp
 cover_image: /images/posts/conselho-ia-diretoria-virtual-oficina-mecanica-base.png
 published: true
-social_published: []
+social_published:
+  - linkedin
+  - facebook
+  - instagram
 ---
 
 Se você é dono de oficina mecânica, é provável que já tenha se deparado com a seguinte situação: você contrata um sistema de gestão moderno, abre a tela inicial e se depara com dezenas de gráficos bonitos, relatórios coloridos e métricas reluzentes. Mas, entre o barulho dos pistões, carros parados no elevador e clientes ligando para cobrar prazos, **você simplesmente não tem tempo para analisar gráficos**.

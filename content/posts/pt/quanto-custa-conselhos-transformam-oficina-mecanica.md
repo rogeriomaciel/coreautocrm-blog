@@ -1,13 +1,11 @@
 ---
-title: 'Quanto custa para você ter conselhos que transformam a sua oficina mecânica?'
+title: Quanto custa para você ter conselhos que transformam a sua oficina mecânica?
 slug: quanto-custa-conselhos-transformam-oficina-mecanica
 date: '2026-07-22'
 author: Rogério Maciel
-excerpt: >-
-  Faça os cálculos: quanto custa a inação na sua oficina? Descubra o valor real de ter o Conselho de IA resgatando orçamentos e otimizando o pátio versus o modelo antigo.
-meta_title: 'Quanto custa ter o Conselho de IA na sua Oficina Mecânica? | CoreSites'
-meta_description: >-
-  Analise o custo real de contratação vs. Inteligência Prescritiva com IA: como o Conselho de IA se paga nos primeiros orçamentos resgatados no WhatsApp.
+excerpt: 'Faça os cálculos: quanto custa a inação na sua oficina? Descubra o valor real de ter o Conselho de IA resgatando orçamentos e otimizando o pátio versus o modelo antigo.'
+meta_title: Quanto custa ter o Conselho de IA na sua Oficina Mecânica? | CoreSites
+meta_description: 'Analise o custo real de contratação vs. Inteligência Prescritiva com IA: como o Conselho de IA se paga nos primeiros orçamentos resgatados no WhatsApp.'
 keywords:
   - quanto custa ia oficina mecanica
   - roi inteligência artificial oficina
@@ -22,7 +20,10 @@ tags:
   - Produtividade
 cover_image: /images/posts/quanto-custa-conselhos-transformam-oficina-mecanica-base.png
 published: true
-social_published: []
+social_published:
+  - linkedin
+  - facebook
+  - instagram
 ---
 
 Quando um dono de oficina mecânica ouve falar em **Inteligência Prescritiva**, **Conselho de IA** e **Diretoria Virtual C-Level**, a primeira pergunta que costuma passar pela sua cabeça é: 

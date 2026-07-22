@@ -1,13 +1,11 @@
 ---
-title: 'O que a IA pode fazer na prática para melhorar a sua oficina mecânica'
+title: O que a IA pode fazer na prática para melhorar a sua oficina mecânica
 slug: o-que-ia-pode-fazer-na-pratica-oficina-mecanica
 date: '2026-07-22'
 author: Rogério Maciel
-excerpt: >-
-  Esqueça teorias complicadas. Descubra como a Inteligência Artificial funciona no dia a dia da oficina: da transcrição de áudio do mecânico até a triagem automática no WhatsApp.
-meta_title: 'O que a IA pode fazer na prática pela sua Oficina Mecânica | CoreSites'
-meta_description: >-
-  Veja exemplos práticos de como a Inteligência Artificial resolve gargalos de atendimento, reduz erros de orçamento e economiza horas do dono de oficina.
+excerpt: 'Esqueça teorias complicadas. Descubra como a Inteligência Artificial funciona no dia a dia da oficina: da transcrição de áudio do mecânico até a triagem automática no WhatsApp.'
+meta_title: O que a IA pode fazer na prática pela sua Oficina Mecânica | CoreSites
+meta_description: 'Veja exemplos práticos de como a Inteligência Artificial resolve gargalos de atendimento, reduz erros de orçamento e economiza horas do dono de oficina.'
 keywords:
   - ia na pratica oficina mecanica
   - inteligencia artificial para oficinas
@@ -22,7 +20,10 @@ tags:
   - Gestão Automotiva
 cover_image: /images/posts/o-que-ia-pode-fazer-na-pratica-oficina-mecanica-base.png
 published: true
-social_published: []
+social_published:
+  - linkedin
+  - facebook
+  - instagram
 ---
 
 Quando se fala em **Inteligência Artificial (IA)** para oficinas mecânicas, muitos empresários ainda imaginam robôs futuristas montando motores sozinhos ou sistemas complexos que exigem horas de treinamento. A realidade, no entanto, é muito mais simples e infinitamente mais lucrativa.

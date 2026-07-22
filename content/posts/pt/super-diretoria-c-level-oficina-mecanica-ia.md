@@ -1,13 +1,11 @@
 ---
-title: 'A Super Diretoria C-Level que você nunca teria na sua oficina sem a IA'
+title: A Super Diretoria C-Level que você nunca teria na sua oficina sem a IA
 slug: super-diretoria-c-level-oficina-mecanica-ia
 date: '2026-07-22'
 author: Rogério Maciel
-excerpt: >-
-  CEO, CFO, CMO, PM e CTO na sua oficina? Descubra como o Conselho de IA entrega a governança executiva de grandes multinacionais para pequenas e médias oficinas a custo irrisório.
-meta_title: 'A Super Diretoria C-Level para Oficinas Mecânicas com IA | CoreSites'
-meta_description: >-
-  Entenda o funcionamento do Conselho de IA do CoreAutoCRM: 5 diretores executivos virtuais auditando faturamento, pátio, WhatsApp e automações 24/7.
+excerpt: 'CEO, CFO, CMO, PM e CTO na sua oficina? Descubra como o Conselho de IA entrega a governança executiva de grandes multinacionais para pequenas e médias oficinas a custo irrisório.'
+meta_title: A Super Diretoria C-Level para Oficinas Mecânicas com IA | CoreSites
+meta_description: 'Entenda o funcionamento do Conselho de IA do CoreAutoCRM: 5 diretores executivos virtuais auditando faturamento, pátio, WhatsApp e automações 24/7.'
 keywords:
   - diretoria c-level oficina mecanica
   - conselho de ia oficina
@@ -22,7 +20,10 @@ tags:
   - Governança
 cover_image: /images/posts/super-diretoria-c-level-oficina-mecanica-ia-base.png
 published: true
-social_published: []
+social_published:
+  - linkedin
+  - facebook
+  - instagram
 ---
 
 Grandes concessionárias e redes automotivas multinacionais têm algo em comum que pequenas e médias oficinas raramente conseguem ter: uma **Diretoria Executiva C-Level dedicada**.
@@ -69,19 +70,25 @@ O Conselho de IA não é uma simples IA que responde perguntas genéricas. Ele �
 * **Papel:** Diretor de Tecnologia.
 * **O que faz:** Monitora a estabilidade das automações n8n, conexões do WhatsApp e envio de notificações para garantir que nenhuma mensagem de cliente seja perdida.
 
----
+## O Conselho de IA na Prática: Como Funciona a Rotina Executiva
 
-## O Conselho de IA na Prática: A Tela do Sistema Real
+No dia a dia do **CoreAutoCRM**, o empresário não precisa gastar tempo navegando por dezenas de guias. O fluxo de governança do Conselho de IA é estruturado em 4 etapas prescreventes:
 
-Na interface do **CoreAutoCRM**, o empresário tem acesso instantâneo a uma visão de diretoria executiva sem precisar decifrar relatórios complexos:
+### 1. Auditoria Telemétrica Automática (SQL + LLM)
+A cada ciclo, o sistema audita diretamente a base de dados PostgreSQL (`ordens_servico`, `pessoas`, `webhook_logs` e `execution_entity`). Em segundos, a engine une a precisão determinística dos números à capacidade analítica do modelo **Gemini 2.5 Flash** rodando via automação n8n.
 
-![Interface Real do Conselho de IA no CoreAutoCRM](/images/posts/conselho-ia-interface-real.png)
+### 2. Visão Unificada de KPIs Executivos
+Antes de detalhar os pareceres, o sistema consolida 4 métricas vitais da saúde do negócio:
+* **Faturamento (7d):** O volume de vendas concluídas reais.
+* **Ticket Médio Real (7d):** O valor médio por ordem de serviço (separando peças de mão de obra).
+* **Veículos no Pátio:** Carros em execução, vistoria, diagnóstico ou aguardando aprovação.
+* **Agendamentos Proativos:** Clientes em triagem ou com orçamentos pendentes aguardando fechamento.
 
-### Elementos Chave da Interface:
-* 📊 **Métricas Executivas em Destaque:** Exibição clara do Faturamento (7 dias), Ticket Médio Real, Veículos no Pátio e Fila de Clientes em Agendamento.
-* 💬 **Agendamentos Proativos:** Cards individuais de clientes parados com botão direto **"ABRIR CHAT"** no WhatsApp.
-* 📅 **Histórico de Governança:** Navegação por pareceres passados com o botão **"SOLICITAR NOVO PARECER"** (auditoria via Gemini 2.5 Flash + n8n).
-* 🔥 **Análise Brutalmente Sincera:** Diagnóstico realista gerado pelo CEO Agent apontando o que deve ser corrigido imediatamente.
+### 3. Agendamentos Proativos e Ação em 1 Clique
+Para cada cliente com orçamento parado ou aguardando agenda, o sistema não apenas lista o nome e o sintoma, mas oferece um botão direto **"Abrir Chat"**. Ele aciona o assistente no WhatsApp com a mensagem personalizada pronta para o consultor fechar o serviço.
+
+### 4. Análise Brutalmente Sincera e Plano Top 3
+O parecer encerra com o toque do **CEO Agent**: uma avaliação sem rodeios dos gargalos operacionais e a entrega do **Plano de Ação Recomendado (Top 3 Prioridades)** para focar exatamente no que traz maior retorno financeiro no dia.
 
 ---
 
