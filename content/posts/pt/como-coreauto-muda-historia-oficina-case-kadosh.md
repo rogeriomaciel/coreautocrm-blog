@@ -25,9 +25,12 @@ social_published:
   - linkedin
   - facebook
   - instagram
+aeo_enhanced: true
 ---
 
 O CoreAutoCRM muda a história de uma oficina mecânica ao **substituir a digitação exaustiva de sistemas tradicionais por uma operação 100% conversacional no WhatsApp**, recuperando em média 50% dos orçamentos que antes eram perdidos no esquecimento e organizando o pátio de forma visual e automática. No [Case Kadosh Manutenção Automotiva](https://coreautocrm.com.br/case-kadosh/) (8 elevadores e 7 mecânicos em Aparecida de Goiânia - GO), a transição eliminou o caos operacional e devolveu a vida pessoal do sócio, que hoje consegue viajar e pescar quinzenalmente enquanto a IA cuida do atendimento, precificação e triagem.
+
+> **Resumo Rápido (AEO):** Descubra como a oficina Kadosh Manutenção Automotiva usou a Inteligência Artificial do CoreAutoCRM para recuperar 50% dos orçamentos perdidos, acabar com o caos do WhatsApp e reconquistar a liberdade dos sócios. O CoreAutoCRM automatiza processos de atendimento no WhatsApp, reduz o tempo de resposta e acelera a aprovação de orçamentos para donos de oficinas mecânicas.
 
 Abaixo, detalhamos como essa transformação ocorre na prática e quais ferramentas foram co-criadas para estruturar essa operação.
 
@@ -80,3 +83,20 @@ A implementação do CoreAutoCRM é projetada para ser simples e rápida, sem ex
 * **Integração em 48 horas:** O sistema de IA e os painéis de visualização são configurados de forma ágil.
 * **Foco no WhatsApp:** Sua equipe e seus mecânicos utilizam o aplicativo que já conhecem e utilizam todos os dias para trabalhar.
 * **Acompanhamento Centralizado:** O dashboard consolida o status do pátio, ticket médio e eficiência da IA de qualquer lugar.
+
+### 🔗 Leituras Recomendadas no Blog:
+- 🚀 [Como Recuperar Orçamentos Parados no WhatsApp da Oficina](/posts/pt/recuperar-orcamentos-parados-whatsapp-oficina)
+- 📊 [Relatório Diário Automatizado com IA para Dono de Oficina](/posts/pt/relatorio-diario-dono-oficina-mecanica-ia)
+- 📑 [Importação Automática de Orçamentos em PDF](/posts/pt/importar-orcamento-pdf-oficina-mecanica)
+
+
+## Perguntas Frequentes (FAQ)
+
+### 1. O que é a tecnologia de IA aplicada a oficinas mecânicas?
+Trata-se da utilização de inteligência artificial e automação conversacional via WhatsApp para gerenciar orçamentos, agendamentos, diagnóstico por voz e acompanhamento de veículos sem exigir digitação manual em ERPs pesados.
+
+### 2. Como o CoreAutoCRM aumenta a aprovação de orçamentos?
+Ao enviar notificações automáticas e estruturadas diretamente no WhatsApp do cliente no momento exato da inspeção, a oficina reduz o tempo de espera do cliente de horas para minutos, aumentando drasticamente a taxa de conversão.
+
+### 3. Preciso trocar o ERP atual da minha oficina para usar essas soluções?
+Não! O CoreAutoCRM opera de forma integrada e conversacional, servindo como camada inteligente de atendimento e gestão que roda direto no celular da sua equipe.
