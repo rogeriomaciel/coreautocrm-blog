@@ -1,6 +1,6 @@
 ---
 title: 'How to calculate the time your mechanic shop loses on WhatsApp?'
-slug: 'how-to-calculate-time-lost-whatsapp-mechanic-shop'
+slug: como-calcular-tempo-perdido-atendimento-oficina-whatsapp
 date: '2026-07-20'
 author: 'Rogério Maciel'
 excerpt: 'Discover the simple formula to calculate how many hours you lose answering messages on WhatsApp and see how to automate your customer service.'

@@ -18,10 +18,10 @@ keywords:
   - CoreAutoCRM
 category: Sales
 tags:
-  - Vendas
+  - Sales
   - Atendimento
   - IA
-  - Orçamentos
+  - Estimates
 cover_image: /images/posts/ia-aumentar-aprovacao-orcamento-reduzir-veiculos.svg
 published: true
 social_published:

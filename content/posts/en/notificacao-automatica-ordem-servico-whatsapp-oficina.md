@@ -1,6 +1,6 @@
 ---
 title: 'Automatic Repair Order Notification: How to Update Customers Without Calling'
-slug: 'automatic-service-order-whatsapp-notification'
+slug: notificacao-automatica-ordem-servico-whatsapp-oficina
 date: '2026-07-21'
 author: 'Rogério Maciel'
 excerpt: 'Reduce customer status calls by up to 80% with automated WhatsApp Repair Order notifications.'

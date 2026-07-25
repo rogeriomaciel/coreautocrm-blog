@@ -7,7 +7,7 @@ author: Rogério Maciel
 excerpt: >-
   Discover why investing in marketing without resolving your auto shop's workflow
   is the fastest path to stress and lost profits.
-meta_title: Resolvendo o gargalo operacional da Oficina Mecânica | CoreSites
+meta_title: Solving the Operational Bottleneck in Auto Repair Shops | CoreSites
 meta_description: >-
   Learn how CoreAutoCRM's intelligent automation eliminates operational
   bottlenecks and allows your auto repair shop to bill more without needing more
@@ -20,8 +20,8 @@ keywords:
   - CoreAutoCRM
 category: Management
 tags:
-  - Gestão
-  - Produtividade
+  - Management
+  - Productivity
   - Estratégia
   - Lucratividade
 cover_image: /images/posts/maior-problema-oficina-gargalo-operacional.svg

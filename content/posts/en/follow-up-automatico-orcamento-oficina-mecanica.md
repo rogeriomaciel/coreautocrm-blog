@@ -1,6 +1,6 @@
 ---
 title: 'Ghosted on Quotes? How to Automate Budget Follow-up in Mechanic Shops'
-slug: 'automatic-budget-follow-up-mechanic-shop'
+slug: follow-up-automatico-orcamento-oficina-mecanica
 date: '2026-07-21'
 author: 'Rogério Maciel'
 excerpt: 'Learn how to recover pending repair estimates on WhatsApp with a friendly, automated sales follow-up sequence.'

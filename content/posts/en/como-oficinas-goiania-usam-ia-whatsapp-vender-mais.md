@@ -1,6 +1,6 @@
 ---
 title: 'How Goiânia shops are using AI on WhatsApp to sell more'
-slug: 'how-goiania-shops-use-ai-whatsapp-sell-more'
+slug: como-oficinas-goiania-usam-ia-whatsapp-vender-mais
 date: '2026-07-20'
 author: 'Rogério Maciel'
 excerpt: 'Discover how to transform your repair shop WhatsApp into an autonomous sales machine that works 24/7 without depending on your time.'

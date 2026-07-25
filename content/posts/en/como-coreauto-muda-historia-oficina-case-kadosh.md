@@ -16,9 +16,9 @@ keywords:
 category: Automation
 tags:
   - Case de Sucesso
-  - Gestão
+  - Management
   - IA
-  - Produtividade
+  - Productivity
 cover_image: /images/posts/como-coreauto-muda-historia-oficina-case-kadosh.svg
 published: true
 social_published:

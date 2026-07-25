@@ -1,6 +1,6 @@
 ---
 title: 'What to do with your free time to make the mechanic shop earn more'
-slug: 'how-mechanic-shop-earn-more-free-time'
+slug: como-oficina-faturar-mais-tempo-livre
 date: '2026-07-20T12:00:00Z'
 author: 'Rogério Maciel'
 excerpt: 'Discover how to transform the idle time returned by AI into a billing machine for your auto repair shop.'

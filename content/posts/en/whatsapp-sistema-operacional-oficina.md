@@ -20,8 +20,8 @@ category: Automation
 tags:
   - WhatsApp
   - Tecnologia
-  - Automação
-  - Gestão
+  - Automation
+  - Management
 cover_image: /images/posts/whatsapp-sistema-operacional-oficina.svg
 published: true
 social_published:

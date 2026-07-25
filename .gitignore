@@ -1,2 +1,4 @@
 .env
 security/
+node_modules/
+bun.lock

@@ -1,6 +1,6 @@
 ---
 title: 'The End of Mass WhatsApp Blasts: How Mechanic Shops Sell Without Getting Banned'
-slug: 'end-of-mass-whatsapp-blasts-mechanic-shop'
+slug: fim-dos-disparos-em-massa-whatsapp-oficina-mecanica
 date: '2026-07-21'
 author: 'Rogério Maciel'
 excerpt: 'Discover how the new WhatsApp algorithm punishes bulk promotional messaging and see the safe conversational strategy for auto repair shops.'

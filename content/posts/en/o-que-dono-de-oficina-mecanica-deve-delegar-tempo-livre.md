@@ -1,6 +1,6 @@
 ---
 title: '3 tasks every mechanic shop owner must delegate to have free time'
-slug: 'tasks-mechanic-shop-owner-must-delegate-free-time'
+slug: o-que-dono-de-oficina-mecanica-deve-delegar-tempo-livre
 date: '2026-07-20'
 author: 'Rogério Maciel'
 excerpt: 'Discover the 3 main tasks every shop owner must stop doing today to get their weekend back.'

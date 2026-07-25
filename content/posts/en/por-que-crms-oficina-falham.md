@@ -6,7 +6,7 @@ author: Rogério Maciel
 excerpt: >-
   Did you buy a CRM system, but nobody feeds it the data? Discover why manual
   data entry is killing your automotive sales.
-meta_title: Por que CRMs falham em oficinas mecânicas? | CoreSites
+meta_title: Why CRMs Fail in Auto Repair Shops | CoreSites
 meta_description: >-
   Understand why most shop CRMs fail by requiring manual typing, and how CoreAutoCRM
   automatizes data entry via AI.
@@ -19,8 +19,8 @@ keywords:
 category: Management
 tags:
   - CRM
-  - Vendas
-  - Gestão
+  - Sales
+  - Management
   - Tecnologia
 cover_image: /images/posts/por-que-crms-oficina-falham.svg
 published: true

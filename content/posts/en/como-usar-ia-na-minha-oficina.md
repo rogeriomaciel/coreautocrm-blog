@@ -19,7 +19,7 @@ category: Automation
 tags:
   - IA
   - Oficina
-  - Gestão
+  - Management
   - CRM
 cover_image: /images/posts/como-usar-ia-na-minha-oficina.svg
 published: true

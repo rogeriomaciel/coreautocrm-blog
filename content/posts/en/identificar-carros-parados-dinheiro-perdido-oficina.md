@@ -18,9 +18,9 @@ keywords:
   - CoreAutoCRM
 category: Management
 tags:
-  - Gestão
+  - Management
   - Lucro
-  - Pátio
+  - Shop Floor
   - Métricas
 cover_image: /images/posts/identificar-carros-parados-dinheiro-perdido-oficina.svg
 published: true

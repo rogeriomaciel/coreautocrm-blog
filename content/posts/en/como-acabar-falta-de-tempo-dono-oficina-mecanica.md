@@ -1,6 +1,6 @@
 ---
 title: 'How to end the mechanic shop owner''s lack of time'
-slug: 'how-to-end-mechanic-shop-owner-lack-of-time'
+slug: como-acabar-falta-de-tempo-dono-oficina-mecanica
 date: '2026-07-20'
 author: 'Rogério Maciel'
 excerpt: 'Learn the difference between managing software and actually leading your shop''s operations.'

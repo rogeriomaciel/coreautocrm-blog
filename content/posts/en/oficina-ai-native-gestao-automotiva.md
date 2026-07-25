@@ -19,7 +19,7 @@ keywords:
 category: AI
 tags:
   - IA
-  - Gestão
+  - Management
   - Inovação
   - Tendências
 cover_image: /images/posts/oficina-ai-native-gestao-automotiva.svg

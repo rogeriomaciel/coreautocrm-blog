@@ -1,6 +1,6 @@
 ---
 title: 'Practical Guide to the AI-Native Shop: Moving from Theory'
-slug: 'practical-guide-ai-native-shop-moving-from-theory'
+slug: guia-pratico-oficina-ai-native-saindo-teoria
 date: '2026-07-20'
 author: 'Rogério Maciel'
 excerpt: 'Learn the exact step-by-step to transform your ordinary shop into an AI-Native operation, managed by data and Artificial Intelligence.'

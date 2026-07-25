@@ -20,7 +20,7 @@ keywords:
 category: Automation
 tags:
   - Follow-up
-  - Vendas
+  - Sales
   - IA
   - CRM
 cover_image: /images/posts/como-fazer-follow-up-inteligente-oficina.svg

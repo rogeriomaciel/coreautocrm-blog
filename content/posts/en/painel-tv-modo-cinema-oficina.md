@@ -18,9 +18,9 @@ keywords:
 category: Management
 tags:
   - TV
-  - Produtividade
+  - Productivity
   - Oficina
-  - Gestão Visual
+  - Management Visual
 cover_image: /images/posts/painel-tv-modo-cinema-oficina.svg
 published: true
 social_published:

@@ -6,7 +6,7 @@ author: Rogério Maciel
 excerpt: >-
   Discover how small scraps of paper are bleeding your shop's profits, and see how
   Artificial Intelligence centralizes everything.
-meta_title: O fim do papel na Oficina Mecânica com IA | CoreSites
+meta_title: The End of Paperwork in the Auto Repair Shop with AI | CoreSites
 meta_description: >-
   How Artificial Intelligence and CoreAutoCRM are ending clipboard and lost paper
   chaos in auto repair shops, organizing data in real time.
@@ -18,10 +18,10 @@ keywords:
   - automotive digitization
 category: Automation
 tags:
-  - Gestão
+  - Management
   - Organização
   - IA
-  - Produtividade
+  - Productivity
 cover_image: /images/posts/fim-papelzinho-ia-oficinas.svg
 published: true
 social_published:

@@ -18,10 +18,10 @@ keywords:
   - voice shop system
 category: Automation
 tags:
-  - Produtividade
-  - Mecânica
+  - Productivity
+  - Mechanics
   - Voz
-  - Automação
+  - Automation
 cover_image: /images/posts/diagnostico-mecanico-por-voz-whatsapp.svg
 published: true
 social_published:

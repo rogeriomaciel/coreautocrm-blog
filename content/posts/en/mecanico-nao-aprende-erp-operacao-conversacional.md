@@ -21,7 +21,7 @@ tags:
   - Equipe
   - Tecnologia
   - Conversacional
-  - Produtividade
+  - Productivity
 cover_image: /images/posts/mecanico-nao-aprende-erp-operacao-conversacional.svg
 published: true
 social_published:

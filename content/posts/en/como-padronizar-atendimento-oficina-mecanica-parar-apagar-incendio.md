@@ -1,6 +1,6 @@
 ---
 title: 'The trap of being the guy: How to standardize service and stop putting out fires'
-slug: 'how-to-standardize-mechanic-shop-service-stop-putting-out-fires'
+slug: como-padronizar-atendimento-oficina-mecanica-parar-apagar-incendio
 date: '2026-07-20'
 author: 'Rogério Maciel'
 excerpt: 'Discover how the lack of service standardization turns your shop into chaos and how a Conversational Operating System can restore your peace.'
