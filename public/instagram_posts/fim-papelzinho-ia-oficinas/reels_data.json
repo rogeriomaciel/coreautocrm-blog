@@ -1,0 +1,35 @@
+{
+  "title": "O fim do “papelzinho”: como a IA está organizando oficinas mecânicas em tempo real",
+  "totalDurationSeconds": 25,
+  "voice": "pt-BR-AntonioNeural",
+  "sections": [
+    {
+      "step": 1,
+      "title": "HOOK (0-4s)",
+      "voiceover": "Se você é dono de oficina mecânica, pare de jogar dinheiro fora mandando spam no WhatsApp!",
+      "onScreenText": "⚠️ PARALISA TUDO!\nSua oficina perde dinheiro no WhatsApp?",
+      "durationSeconds": 4
+    },
+    {
+      "step": 2,
+      "title": "DOR / PROBLEMA (4-10s)",
+      "voiceover": "Disparar a mesma mensagem genérica pra dois mil clientes só serve pra queimar seu número e irritar o cliente.",
+      "onScreenText": "❌ Disparo em massa = Bloqueio de chip e 0% de vendas.",
+      "durationSeconds": 6
+    },
+    {
+      "step": 3,
+      "title": "SOLUÇÃO PERSUASIVA (10-18s)",
+      "voiceover": "Com o CoreAuto CRM, a IA lê o histórico da conversa e gera um acompanhamento sutil e hiper-personalizado pra cada orçamento parado.",
+      "onScreenText": "🧠 IA lê a conversa e resgata o orçamento certo no momento exato!",
+      "durationSeconds": 8
+    },
+    {
+      "step": 4,
+      "title": "CTA IMPERDÍVEL (18-25s)",
+      "voiceover": "Aumente a aprovação de serviços na sua oficina ainda essa semana! Comente OFICINA aqui embaixo pra ler o guia completo no blog!",
+      "onScreenText": "🚀 Quer testar na sua oficina?\nComente 'OFICINA' ou clique no link da bio! 🔗",
+      "durationSeconds": 7
+    }
+  ]
+}

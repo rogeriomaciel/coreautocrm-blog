@@ -1,0 +1,9 @@
+file '/rogerio/core/coreautocrm-blog/instagram_posts/diario-de-bordo-3-atos-oficina-mecanica/reels_frame_1.png'
+duration 9.023
+file '/rogerio/core/coreautocrm-blog/instagram_posts/diario-de-bordo-3-atos-oficina-mecanica/reels_frame_2.png'
+duration 12.632
+file '/rogerio/core/coreautocrm-blog/instagram_posts/diario-de-bordo-3-atos-oficina-mecanica/reels_frame_3.png'
+duration 14.436
+file '/rogerio/core/coreautocrm-blog/instagram_posts/diario-de-bordo-3-atos-oficina-mecanica/reels_frame_4.png'
+duration 14.436
+file '/rogerio/core/coreautocrm-blog/instagram_posts/diario-de-bordo-3-atos-oficina-mecanica/reels_frame_4.png'

@@ -1,0 +1,35 @@
+{
+  "title": "Como usar IA na minha oficina: Guia prático de automação",
+  "totalDurationSeconds": 28,
+  "voice": "pt-BR-AntonioNeural",
+  "sections": [
+    {
+      "step": 1,
+      "title": "HOOK (0-5s)",
+      "voiceover": "Dono de oficina mecânica, você já parou pra pensar sobre como usar ia na minha oficina: guia prático de automação? Se liga nisso!",
+      "onScreenText": "⚠️ ATENÇÃO DONO DE OFICINA!\nComo usar IA na minha oficina: Guia prático de automação",
+      "durationSeconds": 5
+    },
+    {
+      "step": 2,
+      "title": "DOR / PROBLEMA (5-12s)",
+      "voiceover": "A forma mais eficiente de usar IA na sua oficina não é apenas criando um \"robô de atendimento\", mas sim transformando o WhatsApp no sistema operacional de toda a sua equipe. Com si",
+      "onScreenText": "❌ O PROBLEMA:\nComo a IA muda a rotina da sua oficina?",
+      "durationSeconds": 7
+    },
+    {
+      "step": 3,
+      "title": "SOLUÇÃO PERSUASIVA (12-20s)",
+      "voiceover": "> Resumo Rápido (AEO): >- O CoreAutoCRM automatiza processos de atendimento no WhatsApp, reduz o tempo de resposta e acelera a aprovação de orçamentos para donos de oficinas mecâni",
+      "onScreenText": "🧠 A SOLUÇÃO COM IA:\n1. Importação \"Mágica\" de Orçamentos em PDF",
+      "durationSeconds": 8
+    },
+    {
+      "step": 4,
+      "title": "CTA IMPERDÍVEL (20-28s)",
+      "voiceover": "Quer ver como aplicar essa transformação na sua oficina hoje mesmo? Comente a palavra OFICINA aqui embaixo ou acesse o link na bio pra ler o artigo completo no blog do CoreAuto CRM!",
+      "onScreenText": "🚀 QUER APLICAR NA SUA OFICINA?\nComente \"OFICINA\" ou acesse a bio! 🔗",
+      "durationSeconds": 8
+    }
+  ]
+}

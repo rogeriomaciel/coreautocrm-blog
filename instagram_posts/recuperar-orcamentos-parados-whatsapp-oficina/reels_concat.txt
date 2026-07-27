@@ -1,0 +1,9 @@
+file '/rogerio/core/coreautocrm-blog/instagram_posts/recuperar-orcamentos-parados-whatsapp-oficina/reels_frame_1.png'
+duration 4.555
+file '/rogerio/core/coreautocrm-blog/instagram_posts/recuperar-orcamentos-parados-whatsapp-oficina/reels_frame_2.png'
+duration 6.832
+file '/rogerio/core/coreautocrm-blog/instagram_posts/recuperar-orcamentos-parados-whatsapp-oficina/reels_frame_3.png'
+duration 9.110
+file '/rogerio/core/coreautocrm-blog/instagram_posts/recuperar-orcamentos-parados-whatsapp-oficina/reels_frame_4.png'
+duration 7.971
+file '/rogerio/core/coreautocrm-blog/instagram_posts/recuperar-orcamentos-parados-whatsapp-oficina/reels_frame_4.png'

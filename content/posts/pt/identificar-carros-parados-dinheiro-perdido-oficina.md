@@ -3,13 +3,9 @@ title: Como identificar carros parados e dinheiro perdido dentro da sua oficina
 slug: identificar-carros-parados-dinheiro-perdido-oficina
 date: '2026-06-11'
 author: Rogério Maciel
-excerpt: >-
-  Um carro parado no elevador esperando peça ou aprovação não é inofensivo; ele
-  está bloqueando o seu fluxo de caixa diário.
+excerpt: Um carro parado no elevador esperando peça ou aprovação não é inofensivo; ele está bloqueando o seu fluxo de caixa diário.
 meta_title: Identificando Gargalos e Carros Parados na Oficina | CoreSites
-meta_description: >-
-  Aprenda a encontrar e eliminar o desperdício de tempo na oficina. Veja como a
-  IA avisa sobre carros parados e orçamentos não respondidos.
+meta_description: Aprenda a encontrar e eliminar o desperdício de tempo na oficina. Veja como a IA avisa sobre carros parados e orçamentos não respondidos.
 keywords:
   - carro parado oficina
   - lucro oficina mecânica
@@ -27,7 +23,6 @@ published: true
 social_published:
   - linkedin
   - facebook
-  - instagram
 aeo_enhanced: true
 ---
 

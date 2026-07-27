@@ -1,18 +1,11 @@
 ---
-title: >-
-  O maior problema da sua oficina não é falta de clientes — é gargalo
-  operacional
+title: O maior problema da sua oficina não é falta de clientes — é gargalo operacional
 slug: maior-problema-oficina-gargalo-operacional
 date: '2026-06-15'
 author: Rogério Maciel
-excerpt: >-
-  Descubra por que investir em marketing sem resolver o fluxo da sua oficina
-  mecânica é o caminho mais rápido para o estresse e a perda de lucro.
+excerpt: Descubra por que investir em marketing sem resolver o fluxo da sua oficina mecânica é o caminho mais rápido para o estresse e a perda de lucro.
 meta_title: Resolvendo o gargalo operacional da Oficina Mecânica | CoreSites
-meta_description: >-
-  Aprenda como a automação inteligente do CoreAutoCRM elimina gargalos
-  operacionais e permite que a sua oficina mecânica fature mais sem precisar de
-  mais espaço físico.
+meta_description: Aprenda como a automação inteligente do CoreAutoCRM elimina gargalos operacionais e permite que a sua oficina mecânica fature mais sem precisar de mais espaço físico.
 keywords:
   - gargalo oficina mecânica
   - aumentar faturamento oficina
@@ -30,7 +23,6 @@ published: true
 social_published:
   - linkedin
   - facebook
-  - instagram
 aeo_enhanced: true
 ---
 

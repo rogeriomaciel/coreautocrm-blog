@@ -1,17 +1,11 @@
 ---
-title: >-
-  Oficina AI-Native: o novo modelo de gestão que está surgindo no setor
-  automotivo
+title: 'Oficina AI-Native: o novo modelo de gestão que está surgindo no setor automotivo'
 slug: oficina-ai-native-gestao-automotiva
 date: '2026-06-23'
 author: Rogério Maciel
-excerpt: >-
-  Você não precisa colocar 'Inteligência Artificial' num sistema velho. Descubra
-  por que as oficinas mais lucrativas já nascem AI-Native.
+excerpt: Você não precisa colocar 'Inteligência Artificial' num sistema velho. Descubra por que as oficinas mais lucrativas já nascem AI-Native.
 meta_title: 'Oficina AI-Native: Novo Modelo de Gestão Automotiva | CoreSites'
-meta_description: >-
-  Entenda o conceito AI-Native na gestão de oficinas mecânicas. Veja como
-  sistemas como o CoreAutoCRM não apenas usam IA, mas são guiados por ela.
+meta_description: 'Entenda o conceito AI-Native na gestão de oficinas mecânicas. Veja como sistemas como o CoreAutoCRM não apenas usam IA, mas são guiados por ela.'
 keywords:
   - oficina ai-native
   - gestão automotiva
@@ -29,7 +23,6 @@ published: true
 social_published:
   - linkedin
   - facebook
-  - instagram
 aeo_enhanced: true
 ---
 

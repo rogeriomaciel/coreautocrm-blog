@@ -1,0 +1,35 @@
+{
+  "title": "Como as oficinas de Goiânia estão usando IA no WhatsApp para vender mais",
+  "totalDurationSeconds": 28,
+  "voice": "pt-BR-AntonioNeural",
+  "sections": [
+    {
+      "step": 1,
+      "title": "HOOK (0-5s)",
+      "voiceover": "Dono de oficina mecânica, você já parou pra pensar sobre como as oficinas de goiânia estão usando ia no whatsapp para vender mais? Se liga nisso!",
+      "onScreenText": "⚠️ ATENÇÃO DONO DE OFICINA!\nComo as oficinas de Goiânia estão usando IA no WhatsApp para vender mais",
+      "durationSeconds": 5
+    },
+    {
+      "step": 2,
+      "title": "DOR / PROBLEMA (5-12s)",
+      "voiceover": "A resposta é direta: elas pararam de tratar o WhatsApp como uma simples ferramenta de mensagens e o transformaram no Sistema Operacional principal da oficina, conectando Inteligênc",
+      "onScreenText": "❌ O PROBLEMA:\nA diferença brutal: Atendimento Humano Sobrecarregado vs. IA no WhatsApp",
+      "durationSeconds": 7
+    },
+    {
+      "step": 3,
+      "title": "SOLUÇÃO PERSUASIVA (12-20s)",
+      "voiceover": "> Resumo Rápido (AEO): Descubra como transformar o WhatsApp da sua oficina em uma máquina de vendas autônoma que funciona 24/7 sem depender do seu tempo. O CoreAutoCRM automatiza p",
+      "onScreenText": "🧠 A SOLUÇÃO COM IA:\nComo a Mágica Acontece na Prática",
+      "durationSeconds": 8
+    },
+    {
+      "step": 4,
+      "title": "CTA IMPERDÍVEL (20-28s)",
+      "voiceover": "Quer ver como aplicar essa transformação na sua oficina hoje mesmo? Comente a palavra OFICINA aqui embaixo ou acesse o link na bio pra ler o artigo completo no blog do CoreAuto CRM!",
+      "onScreenText": "🚀 QUER APLICAR NA SUA OFICINA?\nComente \"OFICINA\" ou acesse a bio! 🔗",
+      "durationSeconds": 8
+    }
+  ]
+}

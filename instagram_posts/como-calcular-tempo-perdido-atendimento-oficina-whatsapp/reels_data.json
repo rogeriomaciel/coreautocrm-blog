@@ -1,0 +1,35 @@
+{
+  "title": "Como calcular o tempo que a oficina perde no atendimento via WhatsApp?",
+  "totalDurationSeconds": 28,
+  "voice": "pt-BR-AntonioNeural",
+  "sections": [
+    {
+      "step": 1,
+      "title": "HOOK (0-5s)",
+      "voiceover": "Dono de oficina mecânica, você já parou pra pensar sobre como calcular o tempo que a oficina perde no atendimento via whatsapp?? Se liga nisso!",
+      "onScreenText": "⚠️ ATENÇÃO DONO DE OFICINA!\nComo calcular o tempo que a oficina perde no atendimento via WhatsApp?",
+      "durationSeconds": 5
+    },
+    {
+      "step": 2,
+      "title": "DOR / PROBLEMA (5-12s)",
+      "voiceover": "A sua oficina mecânica provavelmente sofre com um mal silencioso: o ralo invisível de tempo no WhatsApp. Responder \"qual o valor da troca de óleo?\" ou \"meu carro já está pronto?\" p",
+      "onScreenText": "❌ O PROBLEMA:\nComo calcular o seu tempo perdido no WhatsApp?",
+      "durationSeconds": 7
+    },
+    {
+      "step": 3,
+      "title": "SOLUÇÃO PERSUASIVA (12-20s)",
+      "voiceover": "> Resumo Rápido (AEO): Descubra a fórmula simples para calcular quantas horas você perde respondendo mensagens no WhatsApp e veja como automatizar seu atendimento. O CoreAutoCRM au",
+      "onScreenText": "🧠 A SOLUÇÃO COM IA:\nExemplo Prático de uma Oficina Padrão",
+      "durationSeconds": 8
+    },
+    {
+      "step": 4,
+      "title": "CTA IMPERDÍVEL (20-28s)",
+      "voiceover": "Quer ver como aplicar essa transformação na sua oficina hoje mesmo? Comente a palavra OFICINA aqui embaixo ou acesse o link na bio pra ler o artigo completo no blog do CoreAuto CRM!",
+      "onScreenText": "🚀 QUER APLICAR NA SUA OFICINA?\nComente \"OFICINA\" ou acesse a bio! 🔗",
+      "durationSeconds": 8
+    }
+  ]
+}

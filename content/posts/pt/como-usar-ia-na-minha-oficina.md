@@ -3,13 +3,9 @@ title: 'Como usar IA na minha oficina: Guia prático de automação'
 slug: como-usar-ia-na-minha-oficina
 date: '2026-05-22'
 author: Rogério Maciel
-excerpt: >-
-  Descubra como a Inteligência Artificial pode automatizar orçamentos,
-  atendimento e gestão na sua oficina mecânica.
+excerpt: 'Descubra como a Inteligência Artificial pode automatizar orçamentos, atendimento e gestão na sua oficina mecânica.'
 meta_title: Como usar IA na sua Oficina Mecânica | CoreSites Blog
-meta_description: >-
-  Aprenda o passo a passo para aplicar Inteligência Artificial na sua oficina
-  mecânica e automatizar atendimento, orçamentos e agendamentos de clientes.
+meta_description: 'Aprenda o passo a passo para aplicar Inteligência Artificial na sua oficina mecânica e automatizar atendimento, orçamentos e agendamentos de clientes.'
 keywords:
   - IA para oficina mecânica
   - automação de oficina

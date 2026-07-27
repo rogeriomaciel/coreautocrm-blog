@@ -22,7 +22,6 @@ cover_image: /images/posts/como-acabar-falta-de-tempo-dono-oficina-mecanica.svg
 published: true
 social_published:
   - linkedin
-  - instagram
   - facebook
 aeo_enhanced: true
 ---

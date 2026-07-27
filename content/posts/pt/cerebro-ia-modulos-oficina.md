@@ -3,13 +3,9 @@ title: 'O Cérebro da sua Oficina: Como treinar uma IA para cada setor'
 slug: cerebro-ia-modulos-oficina
 date: '2026-05-14'
 author: Rogério Maciel
-excerpt: >-
-  Sua oficina não precisa de um chatbot genérico, mas sim de módulos cognitivos
-  de IA que agem como recepcionista, consultor e diagnóstico.
+excerpt: 'Sua oficina não precisa de um chatbot genérico, mas sim de módulos cognitivos de IA que agem como recepcionista, consultor e diagnóstico.'
 meta_title: Arquitetura Modular de IA para Oficinas Mecânicas | CoreSites
-meta_description: >-
-  Entenda como a arquitetura de Módulos de Inteligência Artificial permite que
-  uma oficina mecânica escale suas operações de atendimento e diagnóstico.
+meta_description: Entenda como a arquitetura de Módulos de Inteligência Artificial permite que uma oficina mecânica escale suas operações de atendimento e diagnóstico.
 keywords:
   - arquitetura de IA
   - módulos cognitivos
@@ -27,7 +23,6 @@ published: true
 social_published:
   - linkedin
   - facebook
-  - instagram
 aeo_enhanced: true
 ---
 
