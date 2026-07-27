@@ -1,0 +1,19 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,72,&H00FFFFFF,&H000000FF,&H00000000,&H90000000,1,0,0,0,100,100,0,0,1,4,2,2,60,60,340,1
+Style: Highlight,Arial,76,&H0000FFFF,&H000000FF,&H00000000,&H90000000,1,0,0,0,100,100,0,0,1,4,2,2,60,60,340,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,⚠️ ATENÇÃO DONO DE OFICINA!
+Como calcular o tempo que a oficina perde no atendimento via WhatsApp?
+Dialogue: 0,0:00:05.00,0:00:12.00,Default,,0,0,0,,A sua oficina mecânica provavelmente sofre com um mal silencioso: o ralo invisível de tempo no Whats
+Dialogue: 0,0:00:12.00,0:00:20.00,Default,,0,0,0,,Neste artigo, você vai aprender como calcular exatamente quanto tempo você está perdendo e o que faz
+Dialogue: 0,0:00:20.00,0:00:46.39,Highlight,,0,0,0,,🚀 QUER APLICAR NA SUA OFICINA?
+Comente 'OFICINA' ou clique na bio!

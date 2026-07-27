@@ -3,14 +3,9 @@ title: 'O futuro das oficinas mecânicas: IA, automação e operação em tempo 
 slug: futuro-oficinas-mecanicas-ia-automacao
 date: '2026-06-03'
 author: Rogério Maciel
-excerpt: >-
-  Esqueça robôs consertando motores. O futuro já chegou e está na gestão de
-  dados e na velocidade absurda de operação impulsionada por IA.
+excerpt: Esqueça robôs consertando motores. O futuro já chegou e está na gestão de dados e na velocidade absurda de operação impulsionada por IA.
 meta_title: 'Futuro das Oficinas: IA e Automação | CoreSites'
-meta_description: >-
-  Entenda como a Inteligência Artificial e a Automação moldam o futuro das
-  oficinas mecânicas, transformando o pátio em uma operação de alta velocidade e
-  precisão.
+meta_description: 'Entenda como a Inteligência Artificial e a Automação moldam o futuro das oficinas mecânicas, transformando o pátio em uma operação de alta velocidade e precisão.'
 keywords:
   - futuro oficinas mecanicas
   - tecnologia automotiva
@@ -28,7 +23,6 @@ published: true
 social_published:
   - linkedin
   - facebook
-  - instagram
 aeo_enhanced: true
 ---
 

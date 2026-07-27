@@ -1,0 +1,9 @@
+file '/rogerio/core/coreautocrm-blog/instagram_posts/conselho-ia-diretoria-virtual-oficina-mecanica/reels_frame_1.png'
+duration 9.064
+file '/rogerio/core/coreautocrm-blog/instagram_posts/conselho-ia-diretoria-virtual-oficina-mecanica/reels_frame_2.png'
+duration 12.690
+file '/rogerio/core/coreautocrm-blog/instagram_posts/conselho-ia-diretoria-virtual-oficina-mecanica/reels_frame_3.png'
+duration 14.503
+file '/rogerio/core/coreautocrm-blog/instagram_posts/conselho-ia-diretoria-virtual-oficina-mecanica/reels_frame_4.png'
+duration 14.503
+file '/rogerio/core/coreautocrm-blog/instagram_posts/conselho-ia-diretoria-virtual-oficina-mecanica/reels_frame_4.png'

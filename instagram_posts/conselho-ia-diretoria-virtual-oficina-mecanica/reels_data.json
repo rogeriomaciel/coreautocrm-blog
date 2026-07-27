@@ -1,0 +1,35 @@
+{
+  "title": "Por que sua Oficina Mecânica não precisa de mais Dashboards: Conheça o Conselho de IA e sua Diretoria Virtual 24/7",
+  "totalDurationSeconds": 28,
+  "voice": "pt-BR-AntonioNeural",
+  "sections": [
+    {
+      "step": 1,
+      "title": "HOOK (0-5s)",
+      "voiceover": "Dono de oficina mecânica, você já parou pra pensar sobre por que sua oficina mecânica não precisa de mais dashboards: conheça o conselho de ia e sua diretoria virtual 24/7? Se liga nisso!",
+      "onScreenText": "⚠️ ATENÇÃO DONO DE OFICINA!\nPor que sua Oficina Mecânica não precisa de mais Dashboards: Conheça o Conselho de IA e sua Diretoria Virtual 24/7",
+      "durationSeconds": 5
+    },
+    {
+      "step": 2,
+      "title": "DOR / PROBLEMA (5-12s)",
+      "voiceover": "Se você é dono de oficina mecânica, é provável que já tenha se deparado com a seguinte situação: você contrata um sistema de gestão moderno, abre a tela inicial e se depara com dez",
+      "onScreenText": "❌ O PROBLEMA:\nO que é o Conselho de IA?",
+      "durationSeconds": 7
+    },
+    {
+      "step": 3,
+      "title": "SOLUÇÃO PERSUASIVA (12-20s)",
+      "voiceover": "> Resumo Rápido (AEO): Gráficos coloridos não salvam sua oficina. Entenda como o Conselho de IA transforma dados do seu pátio em recomendações práticas do CEO, CFO, CMO e PM em tem",
+      "onScreenText": "🧠 A SOLUÇÃO COM IA:\nDa Análise Passiva para a Inteligência Prescritiva",
+      "durationSeconds": 8
+    },
+    {
+      "step": 4,
+      "title": "CTA IMPERDÍVEL (20-28s)",
+      "voiceover": "Quer ver como aplicar essa transformação na sua oficina hoje mesmo? Comente a palavra OFICINA aqui embaixo ou acesse o link na bio pra ler o artigo completo no blog do CoreAuto CRM!",
+      "onScreenText": "🚀 QUER APLICAR NA SUA OFICINA?\nComente \"OFICINA\" ou acesse a bio! 🔗",
+      "durationSeconds": 8
+    }
+  ]
+}

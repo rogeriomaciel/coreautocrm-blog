@@ -5,7 +5,7 @@ date: '2026-07-11'
 author: Rogério Maciel
 excerpt: 'Descubra como a oficina Kadosh Manutenção Automotiva usou a Inteligência Artificial do CoreAutoCRM para recuperar 50% dos orçamentos perdidos, acabar com o caos do WhatsApp e reconquistar a liberdade dos sócios.'
 meta_title: 'Case Kadosh: Como o CoreAutoCRM Transforma Oficinas Mecânicas'
-meta_description: 'Entenda como a Kadosh Manutenção Automotiva converteu 50% dos orçamentos perdidos usando o CoreAutoCRM e automatizou a gestão do pátio direto pelo WhatsApp.'
+meta_description: Entenda como a Kadosh Manutenção Automotiva converteu 50% dos orçamentos perdidos usando o CoreAutoCRM e automatizou a gestão do pátio direto pelo WhatsApp.
 keywords:
   - case kadosh
   - oficina mecanica aparecida de goiania
@@ -24,7 +24,6 @@ published: true
 social_published:
   - linkedin
   - facebook
-  - instagram
 aeo_enhanced: true
 ---
 

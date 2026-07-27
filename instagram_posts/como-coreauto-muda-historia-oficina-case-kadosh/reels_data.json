@@ -1,0 +1,35 @@
+{
+  "title": "Como o CoreAutoCRM Transformou a Oficina Kadosh: A Jornada de \"Quase Pirar\" a Pescar a Cada 15 Dias",
+  "totalDurationSeconds": 28,
+  "voice": "pt-BR-AntonioNeural",
+  "sections": [
+    {
+      "step": 1,
+      "title": "HOOK (0-5s)",
+      "voiceover": "Dono de oficina mecânica, você já parou pra pensar sobre como o coreautocrm transformou a oficina kadosh: a jornada de \"quase pirar\" a pescar a cada 15 dias? Se liga nisso!",
+      "onScreenText": "⚠️ ATENÇÃO DONO DE OFICINA!\nComo o CoreAutoCRM Transformou a Oficina Kadosh: A Jornada de \"Quase Pirar\" a Pescar a Cada 15 Dias",
+      "durationSeconds": 5
+    },
+    {
+      "step": 2,
+      "title": "DOR / PROBLEMA (5-12s)",
+      "voiceover": "O CoreAutoCRM muda a história de uma oficina mecânica ao substituir a digitação exaustiva de sistemas tradicionais por uma operação 100% conversacional no WhatsApp, recuperando em ",
+      "onScreenText": "❌ O PROBLEMA:\nPor que os ERPs tradicionais geram caos na oficina?",
+      "durationSeconds": 7
+    },
+    {
+      "step": 3,
+      "title": "SOLUÇÃO PERSUASIVA (12-20s)",
+      "voiceover": "> Resumo Rápido (AEO): Descubra como a oficina Kadosh Manutenção Automotiva usou a Inteligência Artificial do CoreAutoCRM para recuperar 50% dos orçamentos perdidos, acabar com o c",
+      "onScreenText": "🧠 A SOLUÇÃO COM IA:\nComo a IA do CoreAutoCRM muda a rotina do pátio?",
+      "durationSeconds": 8
+    },
+    {
+      "step": 4,
+      "title": "CTA IMPERDÍVEL (20-28s)",
+      "voiceover": "Quer ver como aplicar essa transformação na sua oficina hoje mesmo? Comente a palavra OFICINA aqui embaixo ou acesse o link na bio pra ler o artigo completo no blog do CoreAuto CRM!",
+      "onScreenText": "🚀 QUER APLICAR NA SUA OFICINA?\nComente \"OFICINA\" ou acesse a bio! 🔗",
+      "durationSeconds": 8
+    }
+  ]
+}

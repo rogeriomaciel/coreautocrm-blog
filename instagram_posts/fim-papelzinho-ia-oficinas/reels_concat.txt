@@ -1,0 +1,9 @@
+file '/rogerio/core/coreautocrm-blog/instagram_posts/fim-papelzinho-ia-oficinas/reels_frame_1.png'
+duration 4.733
+file '/rogerio/core/coreautocrm-blog/instagram_posts/fim-papelzinho-ia-oficinas/reels_frame_2.png'
+duration 7.100
+file '/rogerio/core/coreautocrm-blog/instagram_posts/fim-papelzinho-ia-oficinas/reels_frame_3.png'
+duration 9.466
+file '/rogerio/core/coreautocrm-blog/instagram_posts/fim-papelzinho-ia-oficinas/reels_frame_4.png'
+duration 8.283
+file '/rogerio/core/coreautocrm-blog/instagram_posts/fim-papelzinho-ia-oficinas/reels_frame_4.png'

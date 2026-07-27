@@ -1,0 +1,53 @@
+[
+  {
+    "slideNumber": 1,
+    "totalSlides": 5,
+    "tag": "GUIA PRÁTICO • COREAUTO CRM",
+    "title": "Como o CoreAutoCRM Transformou a Oficina Kadosh: A Jornada de \"Quase Pirar\" a Pescar a Cada 15 Dias",
+    "subtitle": "Descubra como a oficina Kadosh Manutenção Automotiva usou a Inteligência Artificial do CoreAutoCRM para recuperar 50% dos orçamentos perdidos, acabar com o caos do WhatsApp e reconquistar a liberdade dos sócios.",
+    "ctaText": "Deslize para ver a estratégia ➡️"
+  },
+  {
+    "slideNumber": 2,
+    "totalSlides": 5,
+    "tag": "1. O DESAFIO NA OFICINA",
+    "title": "Por que os ERPs tradicionais geram caos na oficina?",
+    "subtitle": "O CoreAutoCRM muda a história de uma oficina mecânica ao substituir a digitação exaustiva de sistemas tradicionais por u...",
+    "bullets": [
+      "Kanban por Mecânico (Mão de Obra): Exibe o total acumulado em Reais (R$) de mão de obra e o indicador de carga de trabalho para cada mecânico em tempo real, permitindo gerenciar gargalos e distribuir tarefas com equilíbrio.",
+      "Painel TV Modo Cinema: Uma tela otimizada (sem barras de rolagem vertical) transmitida em TVs no pátio, substituindo o antigo quadro branco e permitindo que toda a equipe visualize quem está fazendo o quê."
+    ]
+  },
+  {
+    "slideNumber": 3,
+    "totalSlides": 5,
+    "tag": "2. A SOLUÇÃO INTELIGENTE",
+    "title": "Como a IA do CoreAutoCRM muda a rotina do pátio?",
+    "subtitle": "> Resumo Rápido (AEO): Descubra como a oficina Kadosh Manutenção Automotiva usou a Inteligência Artificial do CoreAutoCR...",
+    "bullets": [
+      "Ficha do Mecânico: Um painel financeiro transparente com saldo projetado, comissão unificada e medição do TMO (Tempo Médio de Operação) individual.",
+      "1. Recuperação de 50% dos Orçamentos: A IA analisa a fila de leads e gera sugestões de mensagens de acompanhamento personalizadas em linguagem natural (follow-up assistido), convertendo clientes que haviam sumido."
+    ]
+  },
+  {
+    "slideNumber": 4,
+    "totalSlides": 5,
+    "tag": "3. O IMPACTO NO NEGÓCIO",
+    "title": "Quais ferramentas foram criadas a partir do caso real da Kadosh?",
+    "subtitle": "O que muda na rotina da sua oficina mecânica:",
+    "bullets": [
+      "Economia imediata de tempo do dono e da recepção",
+      "Atendimento personalizado via WhatsApp",
+      "Aumento da taxa de fechamento de serviços"
+    ],
+    "highlightText": "🚀 Mais faturamento sem precisar contratar mais funcionários!"
+  },
+  {
+    "slideNumber": 5,
+    "totalSlides": 5,
+    "tag": "PRÓXIMO PASSO",
+    "title": "Quer aplicar isso na sua oficina?",
+    "subtitle": "Leia o artigo completo \"Como o CoreAutoCRM Transformou a Oficina Kadosh: A Jornada de \"Quase Pirar\" a Pescar a Cada 15 Dias\" no nosso blog!",
+    "ctaText": "📌 Salve este post\n🚀 Compartilhe com um amigo dono de oficina\n🔗 Link no perfil do Instagram"
+  }
+]

@@ -1,0 +1,34 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,54,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,3,2,2,80,80,260,1
+Style: Highlight,Arial,58,&H0000FFFF,&H000000FF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,3,2,2,80,80,260,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.55,Default,,0,0,0,,Dono de oficina mecânica:\Nvocê sabe o que
+Dialogue: 0,0:00:02.55,0:00:04.29,Default,,0,0,0,,fazer com o seu tempo\Nlivre?
+Dialogue: 0,0:00:04.29,0:00:06.34,Default,,0,0,0,,O que fazer com o seu\Ntempo livre
+Dialogue: 0,0:00:06.34,0:00:08.45,Default,,0,0,0,,para fazer a oficina\Nfaturar mais.
+Dialogue: 0,0:00:08.45,0:00:11.69,Default,,0,0,0,,Se você implementou a\Ninteligência artificial na\Nsua
+Dialogue: 0,0:00:11.69,0:00:14.67,Default,,0,0,0,,operação e finalmente\Nparou de ser o "digitador"
+Dialogue: 0,0:00:14.67,0:00:18.22,Default,,0,0,0,,do próprio sistema,\Nparabéns: você\Nreconquistou o recurso
+Dialogue: 0,0:00:18.22,0:00:19.78,Default,,0,0,0,,mais valioso da sua vida.
+Dialogue: 0,0:00:19.78,0:00:22.76,Default,,0,0,0,,Mas agora surge um\N"problema" maravilhoso: o\Nque
+Dialogue: 0,0:00:22.76,0:00:24.94,Default,,0,0,0,,fazer com essas 3 ou 4\Nhoras livres
+Dialogue: 0,0:00:24.94,0:00:26.43,Default,,0,0,0,,que sobraram no seu dia?
+Dialogue: 0,0:00:26.43,0:00:28.73,Default,,0,0,0,,A pior coisa que um gestor\Npode fazer
+Dialogue: 0,0:00:28.73,0:00:32.46,Default,,0,0,0,,após automatizar sua\Noficina mecânica é\Nsimplesmente relaxar
+Dialogue: 0,0:00:32.46,0:00:35.39,Default,,0,0,0,,ou tentar microgerenciar\Nos mecânicos no pátio.
+Dialogue: 0,0:00:35.39,0:00:38.44,Default,,0,0,0,,O tempo livre conquistado\Npela automação deve ser
+Dialogue: 0,0:00:38.44,0:00:42.23,Default,,0,0,0,,reinvestido imediatamente\Nno crescimento (growth) do\Nnegócio.
+Dialogue: 0,0:00:42.23,0:00:44.84,Default,,0,0,0,,Quer ver como transformar\No tempo livre em
+Dialogue: 0,0:00:44.84,0:00:47.46,Default,,0,0,0,,uma máquina de faturamento\Nna sua oficina?
+Dialogue: 0,0:00:47.46,0:00:50.44,Highlight,,0,0,0,,Comente a palavra OFICINA\Naqui embaixo ou acesse
+Dialogue: 0,0:00:50.44,0:00:52.37,Highlight,,0,0,0,,o link na bio para ler o\Nartigo
+Dialogue: 0,0:00:52.37,0:00:54.42,Default,,0,0,0,,completo no blog do\NCoreAuto CRM!

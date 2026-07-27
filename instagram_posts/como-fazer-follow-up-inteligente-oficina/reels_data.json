@@ -1,0 +1,35 @@
+{
+  "title": "O fim do spam automotivo: Como a IA revolucionou o Follow-Up de oficinas",
+  "totalDurationSeconds": 28,
+  "voice": "pt-BR-AntonioNeural",
+  "sections": [
+    {
+      "step": 1,
+      "title": "HOOK (0-5s)",
+      "voiceover": "Dono de oficina mecânica, você já parou pra pensar sobre o fim do spam automotivo: como a ia revolucionou o follow-up de oficinas? Se liga nisso!",
+      "onScreenText": "⚠️ ATENÇÃO DONO DE OFICINA!\nO fim do spam automotivo: Como a IA revolucionou o Follow-Up de oficinas",
+      "durationSeconds": 5
+    },
+    {
+      "step": 2,
+      "title": "DOR / PROBLEMA (5-12s)",
+      "voiceover": "A regra de ouro das vendas é o \"follow-up\" (acompanhamento do cliente), mas enviar a mesma mensagem genérica de promoção para 500 clientes no WhatsApp é a receita certa para ter se",
+      "onScreenText": "❌ O PROBLEMA:\nPor que os disparos em massa não funcionam mais?",
+      "durationSeconds": 7
+    },
+    {
+      "step": 3,
+      "title": "SOLUÇÃO PERSUASIVA (12-20s)",
+      "voiceover": "> Resumo Rápido (AEO): >- O CoreAutoCRM automatiza processos de atendimento no WhatsApp, reduz o tempo de resposta e acelera a aprovação de orçamentos para donos de oficinas mecâni",
+      "onScreenText": "🧠 A SOLUÇÃO COM IA:\n1. Como a IA escreve a mensagem perfeita?",
+      "durationSeconds": 8
+    },
+    {
+      "step": 4,
+      "title": "CTA IMPERDÍVEL (20-28s)",
+      "voiceover": "Quer ver como aplicar essa transformação na sua oficina hoje mesmo? Comente a palavra OFICINA aqui embaixo ou acesse o link na bio pra ler o artigo completo no blog do CoreAuto CRM!",
+      "onScreenText": "🚀 QUER APLICAR NA SUA OFICINA?\nComente \"OFICINA\" ou acesse a bio! 🔗",
+      "durationSeconds": 8
+    }
+  ]
+}

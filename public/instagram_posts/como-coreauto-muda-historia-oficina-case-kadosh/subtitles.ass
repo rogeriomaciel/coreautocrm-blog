@@ -1,0 +1,18 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,68,&H00FFFFFF,&H000000FF,&H00000000,&H90000000,1,0,0,0,100,100,0,0,1,4,2,2,60,60,340,1
+Style: Highlight,Arial,72,&H0000FFFF,&H000000FF,&H00000000,&H90000000,1,0,0,0,100,100,0,0,1,4,2,2,60,60,340,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.81,Default,,0,0,0,,Dono de oficina mecânica: você\Nprecisa conhecer este caso! Como\No CoreAutoCRM Transformou a\NOficina Kadosh: A Jornada de\N"Quase Pirar" a Pescar a Cada 15\NDias.
+Dialogue: 0,0:00:10.81,0:00:50.05,Default,,0,0,0,,O CoreAutoCRM muda a história de\Numa oficina mecânica ao\Nsubstituir a digitação exaustiva\Nde sistemas tradicionais por uma\Noperação 100% conversacional no\NWhatsApp, recuperando em média\N50% dos orçamentos que antes\Neram perdidos no esquecimento e\Norganizando o pátio de forma\Nvisual e automática. No Case\NKadosh Manutenção Automotiva (8\Nelevadores e 7 mecânicos em\NAparecida de Goiânia - GO), a\Ntransição eliminou o caos\Noperacional e devolveu a vida\Npessoal do sócio, que hoje\Nconsegue viajar e pescar\Nquinzenalmente enquanto a IA\Ncuida do atendimento,\Nprecificação e triagem.
+Dialogue: 0,0:00:50.05,0:00:58.75,Default,,0,0,0,,Abaixo, detalhamos como essa\Ntransformação ocorre na prática\Ne quais ferramentas foram\Nco-criadas para estruturar essa\Noperação.
+Dialogue: 0,0:00:58.75,0:01:03.71,Default,,0,0,0,,Quer ver como aplicar essa mesma\Ntransformação na sua oficina\Nhoje mesmo?
+Dialogue: 0,0:01:03.71,0:01:11.47,Highlight,,0,0,0,,Comente a palavra OFICINA aqui\Nembaixo ou acesse o link na bio\Npara ler o artigo completo no\Nblog do CoreAuto CRM!

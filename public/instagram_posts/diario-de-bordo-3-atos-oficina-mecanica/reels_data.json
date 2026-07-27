@@ -1,0 +1,35 @@
+{
+  "title": "Como o \"Diário de Bordo em 3 Atos\" Acaba com a Sensação de Trabalhar Muito e Não Ver o Dinheiro na Oficina",
+  "totalDurationSeconds": 28,
+  "voice": "pt-BR-AntonioNeural",
+  "sections": [
+    {
+      "step": 1,
+      "title": "HOOK (0-5s)",
+      "voiceover": "Dono de oficina mecânica, você já parou pra pensar sobre como o \"diário de bordo em 3 atos\" acaba com a sensação de trabalhar muito e não ver o dinheiro na oficina? Se liga nisso!",
+      "onScreenText": "⚠️ ATENÇÃO DONO DE OFICINA!\nComo o \"Diário de Bordo em 3 Atos\" Acaba com a Sensação de Trabalhar Muito e Não Ver o Dinheiro na Oficina",
+      "durationSeconds": 5
+    },
+    {
+      "step": 2,
+      "title": "DOR / PROBLEMA (5-12s)",
+      "voiceover": "Se você é dono de uma oficina mecânica, é muito provável que conheça de perto a sensação de exaustão operacional: você chega à oficina antes de todo mundo, passa o dia inteiro apag",
+      "onScreenText": "❌ O PROBLEMA:\nO Que É o Diário de Bordo em 3 Atos?",
+      "durationSeconds": 7
+    },
+    {
+      "step": 3,
+      "title": "SOLUÇÃO PERSUASIVA (12-20s)",
+      "voiceover": "> Resumo Rápido (AEO): Aprenda a transformar a rotina exaustiva da pista em uma narrativa diária de gestão: alinhe a intenção da manhã, a realidade dos elevadores e o legado de liç",
+      "onScreenText": "🧠 A SOLUÇÃO COM IA:\nATO 1: O Que Era Para Acontecer (A Intenção do Turno)",
+      "durationSeconds": 8
+    },
+    {
+      "step": 4,
+      "title": "CTA IMPERDÍVEL (20-28s)",
+      "voiceover": "Quer ver como aplicar essa transformação na sua oficina hoje mesmo? Comente a palavra OFICINA aqui embaixo ou acesse o link na bio pra ler o artigo completo no blog do CoreAuto CRM!",
+      "onScreenText": "🚀 QUER APLICAR NA SUA OFICINA?\nComente \"OFICINA\" ou acesse a bio! 🔗",
+      "durationSeconds": 8
+    }
+  ]
+}

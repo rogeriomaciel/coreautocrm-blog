@@ -1,17 +1,11 @@
 ---
-title: >-
-  Como usar inteligência artificial para aumentar aprovação de orçamento e
-  reduzir veículos parados
+title: Como usar inteligência artificial para aumentar aprovação de orçamento e reduzir veículos parados
 slug: ia-aumentar-aprovacao-orcamento-reduzir-veiculos
 date: '2026-06-07'
 author: Rogério Maciel
-excerpt: >-
-  Orçamentos complexos geram desconfiança. Descubra como a IA traduz o
-  'mecaniquês' e faz o cliente aprovar o serviço na hora via WhatsApp.
+excerpt: Orçamentos complexos geram desconfiança. Descubra como a IA traduz o 'mecaniquês' e faz o cliente aprovar o serviço na hora via WhatsApp.
 meta_title: Aumente aprovação de orçamentos com IA na Oficina | CoreSites
-meta_description: >-
-  Aprenda a usar o CoreAutoCRM para enviar orçamentos inteligentes por WhatsApp.
-  Traduza termos técnicos usando IA e reduza carros parados na oficina.
+meta_description: Aprenda a usar o CoreAutoCRM para enviar orçamentos inteligentes por WhatsApp. Traduza termos técnicos usando IA e reduza carros parados na oficina.
 keywords:
   - aprovação orçamento oficina
   - vender serviço mecânico
@@ -29,7 +23,6 @@ published: true
 social_published:
   - linkedin
   - facebook
-  - instagram
 aeo_enhanced: true
 ---
 
