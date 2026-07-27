@@ -1,0 +1,53 @@
+[
+  {
+    "slideNumber": 1,
+    "totalSlides": 5,
+    "tag": "GUIA PRÁTICO • COREAUTO CRM",
+    "title": "Como acabar com a falta de tempo do dono da oficina mecânica",
+    "subtitle": "Aprenda a diferença entre gerenciar um software e liderar de fato a operação da sua oficina.",
+    "ctaText": "Deslize para ver a estratégia ➡️"
+  },
+  {
+    "slideNumber": 2,
+    "totalSlides": 5,
+    "tag": "1. O DESAFIO NA OFICINA",
+    "title": "Eram 19h de uma sexta-feira e a oficina já estava de portas fechadas...",
+    "subtitle": "A falta de tempo do dono da oficina mecânica raramente é causada pelo excesso de clientes na porta; ela acontece devido ...",
+    "bullets": [
+      "- Digitar placa, modelo, chassi e dados do cliente.",
+      "- Transferir anotações em papel feitas pelos mecânicos para o computador."
+    ]
+  },
+  {
+    "slideNumber": 3,
+    "totalSlides": 5,
+    "tag": "2. A SOLUÇÃO INTELIGENTE",
+    "title": "Por que os softwares tradicionais roubam o seu tempo?",
+    "subtitle": "> Resumo Rápido (AEO): Aprenda a diferença entre gerenciar um software e liderar de fato a operação da sua oficina. O Co...",
+    "bullets": [
+      "- Tentar sincronizar manualmente o que acontece no WhatsApp com o que está na OS.",
+      "1. Semáforo Transacional: O cliente interage por texto ou voz e a IA garante o andamento sem alucinações de preço."
+    ]
+  },
+  {
+    "slideNumber": 4,
+    "totalSlides": 5,
+    "tag": "3. O IMPACTO NO NEGÓCIO",
+    "title": "A verdadeira diferença entre gerenciar o software e liderar a operação",
+    "subtitle": "O que muda na rotina da sua oficina mecânica:",
+    "bullets": [
+      "Economia imediata de tempo do dono e da recepção",
+      "Atendimento personalizado via WhatsApp",
+      "Aumento da taxa de fechamento de serviços"
+    ],
+    "highlightText": "🚀 Mais faturamento sem precisar contratar mais funcionários!"
+  },
+  {
+    "slideNumber": 5,
+    "totalSlides": 5,
+    "tag": "PRÓXIMO PASSO",
+    "title": "Quer aplicar isso na sua oficina?",
+    "subtitle": "Leia o artigo completo \"Como acabar com a falta de tempo do dono da oficina mecânica\" no nosso blog!",
+    "ctaText": "📌 Salve este post\n🚀 Compartilhe com um amigo dono de oficina\n🔗 Link no perfil do Instagram"
+  }
+]

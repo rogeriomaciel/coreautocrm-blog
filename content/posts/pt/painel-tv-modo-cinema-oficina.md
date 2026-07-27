@@ -3,14 +3,9 @@ title: 'O Fim da Prancheta no Pátio: Conheça o Painel TV Modo Cinema'
 slug: painel-tv-modo-cinema-oficina
 date: '2026-06-27'
 author: Rogério Maciel
-excerpt: >-
-  Transforme o monitoramento da sua oficina mecânica substituindo planilhas por
-  uma Smart TV que exibe dados em tempo real.
+excerpt: Transforme o monitoramento da sua oficina mecânica substituindo planilhas por uma Smart TV que exibe dados em tempo real.
 meta_title: 'Painel TV para Oficina Mecânica: Gestão Visual | CoreSites'
-meta_description: >-
-  Aprenda como um Painel TV em Modo Cinema pode otimizar a gestão do pátio da
-  sua oficina mecânica, exibindo cargas de trabalho e status de veículos ao
-  vivo.
+meta_description: 'Aprenda como um Painel TV em Modo Cinema pode otimizar a gestão do pátio da sua oficina mecânica, exibindo cargas de trabalho e status de veículos ao vivo.'
 keywords:
   - painel tv oficina
   - gestão visual oficina mecânica
@@ -27,7 +22,6 @@ published: true
 social_published:
   - linkedin
   - facebook
-  - instagram
 aeo_enhanced: true
 ---
 

@@ -1,0 +1,53 @@
+[
+  {
+    "slideNumber": 1,
+    "totalSlides": 5,
+    "tag": "GUIA PRÁTICO • COREAUTO CRM",
+    "title": "O fim do spam automotivo: Como a IA revolucionou o Follow-Up de oficinas",
+    "subtitle": "Descubra como abandonar os disparos em massa no WhatsApp e usar IA para criar mensagens de reengajamento ultra-personalizadas na sua oficina.",
+    "ctaText": "Deslize para ver a estratégia ➡️"
+  },
+  {
+    "slideNumber": 2,
+    "totalSlides": 5,
+    "tag": "1. O DESAFIO NA OFICINA",
+    "title": "Por que os disparos em massa não funcionam mais?",
+    "subtitle": "A regra de ouro das vendas é o \"follow-up\" (acompanhamento do cliente), mas enviar a mesma mensagem genérica de promoção...",
+    "bullets": [
+      "1. Lê todo o histórico de conversas anteriores.",
+      "2. Analisa as últimas Ordens de Serviço (OS) e orçamentos que não foram aprovados."
+    ]
+  },
+  {
+    "slideNumber": 3,
+    "totalSlides": 5,
+    "tag": "2. A SOLUÇÃO INTELIGENTE",
+    "title": "1. Como a IA escreve a mensagem perfeita?",
+    "subtitle": "> Resumo Rápido (AEO): >- O CoreAutoCRM automatiza processos de atendimento no WhatsApp, reduz o tempo de resposta e ace...",
+    "bullets": [
+      "3. Verifica há quanto tempo o cliente não visita a loja.",
+      "- Exemplo de mensagem redigida pela IA: \"Oi, Marcos! Lembrei de você hoje. Na sua última revisão em janeiro, notamos que as pastilhas de freio estavam chegando na meia-vida. Como você costuma viajar muito, quer que a gente dê uma olhada rápida nelas esta semana?\""
+    ]
+  },
+  {
+    "slideNumber": 4,
+    "totalSlides": 5,
+    "tag": "3. O IMPACTO NO NEGÓCIO",
+    "title": "2. Aprovação Humana: Você no controle",
+    "subtitle": "O que muda na rotina da sua oficina mecânica:",
+    "bullets": [
+      "Economia imediata de tempo do dono e da recepção",
+      "Atendimento personalizado via WhatsApp",
+      "Aumento da taxa de fechamento de serviços"
+    ],
+    "highlightText": "🚀 Mais faturamento sem precisar contratar mais funcionários!"
+  },
+  {
+    "slideNumber": 5,
+    "totalSlides": 5,
+    "tag": "PRÓXIMO PASSO",
+    "title": "Quer aplicar isso na sua oficina?",
+    "subtitle": "Leia o artigo completo \"O fim do spam automotivo: Como a IA revolucionou o Follow-Up de oficinas\" no nosso blog!",
+    "ctaText": "📌 Salve este post\n🚀 Compartilhe com um amigo dono de oficina\n🔗 Link no perfil do Instagram"
+  }
+]

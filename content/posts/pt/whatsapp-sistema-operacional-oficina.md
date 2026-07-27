@@ -3,14 +3,9 @@ title: Como transformar o WhatsApp no sistema operacional da sua oficina
 slug: whatsapp-sistema-operacional-oficina
 date: '2026-07-05'
 author: Rogério Maciel
-excerpt: >-
-  Pare de usar o WhatsApp apenas para responder clientes. Descubra como ele pode
-  virar a principal interface de gestão entre o pátio e a recepção.
+excerpt: Pare de usar o WhatsApp apenas para responder clientes. Descubra como ele pode virar a principal interface de gestão entre o pátio e a recepção.
 meta_title: WhatsApp como Sistema Operacional para Oficinas | CoreSites
-meta_description: >-
-  Entenda como a Inteligência Artificial permite que o WhatsApp deixe de ser
-  apenas um chat e se transforme no sistema operacional (ERP) da sua oficina
-  mecânica.
+meta_description: Entenda como a Inteligência Artificial permite que o WhatsApp deixe de ser apenas um chat e se transforme no sistema operacional (ERP) da sua oficina mecânica.
 keywords:
   - whatsapp oficina mecânica
   - sistema operacional oficina
@@ -28,7 +23,6 @@ published: true
 social_published:
   - linkedin
   - facebook
-  - instagram
 aeo_enhanced: true
 ---
 

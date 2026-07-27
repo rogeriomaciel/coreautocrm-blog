@@ -1,0 +1,9 @@
+file '/rogerio/core/coreautocrm-blog/instagram_posts/como-acabar-falta-de-tempo-dono-oficina-mecanica/reels_frame_1.png'
+duration 8.110
+file '/rogerio/core/coreautocrm-blog/instagram_posts/como-acabar-falta-de-tempo-dono-oficina-mecanica/reels_frame_2.png'
+duration 11.355
+file '/rogerio/core/coreautocrm-blog/instagram_posts/como-acabar-falta-de-tempo-dono-oficina-mecanica/reels_frame_3.png'
+duration 12.977
+file '/rogerio/core/coreautocrm-blog/instagram_posts/como-acabar-falta-de-tempo-dono-oficina-mecanica/reels_frame_4.png'
+duration 12.977
+file '/rogerio/core/coreautocrm-blog/instagram_posts/como-acabar-falta-de-tempo-dono-oficina-mecanica/reels_frame_4.png'

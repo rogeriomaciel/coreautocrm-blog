@@ -3,14 +3,9 @@ title: 'O fim do spam automotivo: Como a IA revolucionou o Follow-Up de oficinas
 slug: como-fazer-follow-up-inteligente-oficina
 date: '2026-05-18'
 author: Rogério Maciel
-excerpt: >-
-  Descubra como abandonar os disparos em massa no WhatsApp e usar IA para criar
-  mensagens de reengajamento ultra-personalizadas na sua oficina.
+excerpt: Descubra como abandonar os disparos em massa no WhatsApp e usar IA para criar mensagens de reengajamento ultra-personalizadas na sua oficina.
 meta_title: Follow-up de Vendas com IA na Oficina Mecânica | CoreSites
-meta_description: >-
-  Aprenda a aplicar Inteligência Artificial no follow-up da sua oficina
-  mecânica. Gere propostas de reengajamento que não parecem spam e dobre seu
-  faturamento.
+meta_description: Aprenda a aplicar Inteligência Artificial no follow-up da sua oficina mecânica. Gere propostas de reengajamento que não parecem spam e dobre seu faturamento.
 keywords:
   - follow-up oficina
   - vendas oficina mecânica
@@ -28,7 +23,6 @@ published: true
 social_published:
   - linkedin
   - facebook
-  - instagram
 aeo_enhanced: true
 ---
 

@@ -1,0 +1,35 @@
+{
+  "title": "O que fazer com o seu tempo livre para fazer a oficina faturar mais",
+  "totalDurationSeconds": 28,
+  "voice": "pt-BR-AntonioNeural",
+  "sections": [
+    {
+      "step": 1,
+      "title": "HOOK (0-5s)",
+      "voiceover": "Dono de oficina mecânica, você já parou pra pensar sobre o que fazer com o seu tempo livre para fazer a oficina faturar mais? Se liga nisso!",
+      "onScreenText": "⚠️ ATENÇÃO DONO DE OFICINA!\nO que fazer com o seu tempo livre para fazer a oficina faturar mais",
+      "durationSeconds": 5
+    },
+    {
+      "step": 2,
+      "title": "DOR / PROBLEMA (5-12s)",
+      "voiceover": "Se você implementou a inteligência artificial na sua operação e finalmente parou de ser o \"digitador\" do próprio sistema, parabéns: você reconquistou o recurso mais valioso da sua ",
+      "onScreenText": "❌ O PROBLEMA:\n1. Relacionamento e Follow-up Estratégico (Pós-Venda)",
+      "durationSeconds": 7
+    },
+    {
+      "step": 3,
+      "title": "SOLUÇÃO PERSUASIVA (12-20s)",
+      "voiceover": "> Resumo Rápido (AEO): Descubra como transformar o tempo ocioso devolvido pela IA em uma máquina de faturamento para sua oficina. O CoreAutoCRM automatiza processos de atendimento ",
+      "onScreenText": "🧠 A SOLUÇÃO COM IA:\n2. Negociação com Fornecedores e Gestão de Peças",
+      "durationSeconds": 8
+    },
+    {
+      "step": 4,
+      "title": "CTA IMPERDÍVEL (20-28s)",
+      "voiceover": "Quer ver como aplicar essa transformação na sua oficina hoje mesmo? Comente a palavra OFICINA aqui embaixo ou acesse o link na bio pra ler o artigo completo no blog do CoreAuto CRM!",
+      "onScreenText": "🚀 QUER APLICAR NA SUA OFICINA?\nComente \"OFICINA\" ou acesse a bio! 🔗",
+      "durationSeconds": 8
+    }
+  ]
+}

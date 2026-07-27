@@ -3,13 +3,9 @@ title: 'O mecânico não quer aprender ERP: a nova era da operação conversacio
 slug: mecanico-nao-aprende-erp-operacao-conversacional
 date: '2026-06-19'
 author: Rogério Maciel
-excerpt: >-
-  Forçar sua equipe de pátio a preencher sistemas complexos destrói a
-  produtividade. Veja como interfaces conversacionais resolvem isso.
+excerpt: Forçar sua equipe de pátio a preencher sistemas complexos destrói a produtividade. Veja como interfaces conversacionais resolvem isso.
 meta_title: O fim do ERP para mecânicos | CoreSites
-meta_description: >-
-  Aprenda por que forçar mecânicos a usar ERPs afunda a produtividade da
-  oficina, e como a operação conversacional (IA no WhatsApp) é a solução.
+meta_description: 'Aprenda por que forçar mecânicos a usar ERPs afunda a produtividade da oficina, e como a operação conversacional (IA no WhatsApp) é a solução.'
 keywords:
   - mecanico erp
   - operacao conversacional oficina
@@ -27,7 +23,6 @@ published: true
 social_published:
   - linkedin
   - facebook
-  - instagram
 aeo_enhanced: true
 ---
 
