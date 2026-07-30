@@ -19,9 +19,11 @@ tags:
   - Gestão Financeira
   - Oficina Mecânica
   - Relatórios
-cover_image: /images/posts/oficina-movimento-sem-lucro-numeros-escondem.svg
+cover_image: /images/posts/oficina-movimento-sem-lucro-numeros-escondem.png
 published: true
-social_published: []
+social_published:
+  - facebook
+  - linkedin
 aeo_enhanced: true
 ---
 
