@@ -1,0 +1,35 @@
+{
+  "title": "Como vender mais revisão preventiva na oficina mecânica",
+  "totalDurationSeconds": 28,
+  "voice": "pt-BR-AntonioNeural",
+  "sections": [
+    {
+      "step": 1,
+      "title": "HOOK (0-5s)",
+      "voiceover": "Dono de oficina mecânica, atenção: como vender mais revisão preventiva na oficina mecânica. Se liga nisso!",
+      "onScreenText": "⚠️ ATENÇÃO DONO DE OFICINA!\nComo vender mais revisão preventiva na oficina mecânica",
+      "durationSeconds": 5
+    },
+    {
+      "step": 2,
+      "title": "DOR / PROBLEMA (5-12s)",
+      "voiceover": "Toda segunda-feira de manhã o dilema se repete: o portão abre, a equipe de mecânicos pega o café e você olha para o pátio torcendo para que chegue algum serviço grande. Em uma sema",
+      "onScreenText": "❌ O PROBLEMA:\n",
+      "durationSeconds": 7
+    },
+    {
+      "step": 3,
+      "title": "SOLUÇÃO PERSUASIVA (12-20s)",
+      "voiceover": "No Brasil, estimativas do setor de reparação automotiva (SINDIREPA) indicam que mais de 70% dos donos de veículos só procuram uma oficina mecânica em situação de emergência. No ent",
+      "onScreenText": "🧠 A SOLUÇÃO:\nO Ciclo da Montanha-Russa Financeira na Oficina Mecânica",
+      "durationSeconds": 8
+    },
+    {
+      "step": 4,
+      "title": "CTA IMPERDÍVEL (20-28s)",
+      "voiceover": "Acesse o link na bio para ler o artigo completo \"Como vender mais revisão preventiva na oficina mecânica\" no blog do CoreAuto CRM!",
+      "onScreenText": "🚀 LEIA O ARTIGO COMPLETO!\nAcesse o link na bio! 🔗",
+      "durationSeconds": 8
+    }
+  ]
+}

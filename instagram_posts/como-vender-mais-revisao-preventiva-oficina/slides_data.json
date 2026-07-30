@@ -1,0 +1,52 @@
+[
+  {
+    "slideNumber": 1,
+    "totalSlides": 5,
+    "tag": "GESTÃO • COREAUTO CRM",
+    "title": "Como vender mais revisão preventiva na oficina mecânica",
+    "subtitle": "Descubra como criar um fluxo automático de revisão preventiva na oficina mecânica, estabilizando seu faturamento mensal e eliminando a dependência do acaso.",
+    "ctaText": "Deslize para ver os detalhes ➡️"
+  },
+  {
+    "slideNumber": 2,
+    "totalSlides": 5,
+    "tag": "1. O DIAGNÓSTICO",
+    "title": "O Diagnóstico Inicial",
+    "subtitle": "Toda segunda-feira de manhã o dilema se repete: o portão abre, a equipe de mecânicos pega o café e você olha p...",
+    "bullets": [
+      "Toda segunda-feira de manhã o dilema se repete: o portão abre, a equip...",
+      "Se você convive com essa montanha-russa financeira, saiba que o proble..."
+    ]
+  },
+  {
+    "slideNumber": 3,
+    "totalSlides": 5,
+    "tag": "2. A SOLUÇÃO PRÁTICA",
+    "title": "O Ciclo da Montanha-Russa Financeira na Oficina Mecânica",
+    "subtitle": "No Brasil, estimativas do setor de reparação automotiva (SINDIREPA) indicam que mais de 70% dos donos de veícu...",
+    "bullets": [
+      "No Brasil, estimativas do setor de reparação automotiva (SINDIREPA) in...",
+      "Quando sua oficina vende apenas a reparação corretiva (o \"bomba quebro..."
+    ]
+  },
+  {
+    "slideNumber": 4,
+    "totalSlides": 5,
+    "tag": "3. O RESULTADO NA PRÁTICA",
+    "title": "Por Que os Clientes Esquecem da Revisão (e Não É Por Faltar Dinheiro)",
+    "subtitle": "O dono da oficina costuma achar que o cliente não faz revisão preventiva porque \"está sem dinheiro\" ou porque ...",
+    "bullets": [
+      "O dono da oficina costuma achar que o cliente não faz revisão preventi...",
+      "O motorista comum não entende de mecânica. Ele não acorda lembrando qu..."
+    ],
+    "highlightText": "💡 O motorista comum não entende de mecânica. Ele não acorda lembrando que o fluido..."
+  },
+  {
+    "slideNumber": 5,
+    "totalSlides": 5,
+    "tag": "ARTIGO COMPLETO",
+    "title": "Quer dominar essa estratégia?",
+    "subtitle": "Leia o artigo completo \"Como vender mais revisão preventiva na oficina mecânica\" no nosso blog!",
+    "ctaText": "📌 Salve este post\n🚀 Compartilhe com um colega de oficina\n🔗 Link no perfil do Instagram"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "slideNumber": 1,
+    "totalSlides": 5,
+    "tag": "AUTOMAÇÃO • COREAUTO CRM",
+    "title": "Cliente não responde o orçamento no WhatsApp: o que fazer",
+    "subtitle": "Descubra a estratégia prática e o tempo exato para resgatar clientes que ignoram orçamentos no WhatsApp sem fazer spam ou dar descontos.",
+    "ctaText": "Deslize para ver os detalhes ➡️"
+  },
+  {
+    "slideNumber": 2,
+    "totalSlides": 5,
+    "tag": "1. O DIAGNÓSTICO",
+    "title": "O Diagnóstico Inicial",
+    "subtitle": "São 11h15 de terça-feira. Seu consultor técnico ou você passou os últimos 40 minutos detalhando o orçamento de...",
+    "bullets": [
+      "São 11h15 de terça-feira. Seu consultor técnico ou você passou os últi...",
+      "Passam-se duas horas, o carro continua ocupando um dos elevadores do p..."
+    ]
+  },
+  {
+    "slideNumber": 3,
+    "totalSlides": 5,
+    "tag": "2. A SOLUÇÃO PRÁTICA",
+    "title": "Por Que o Cliente \"Sumiu\" do WhatsApp? (O Diagnóstico Real)",
+    "subtitle": "O dono da oficina mecânica tende a assumir imediatamente o pior cenário: \"O cliente achou caro e levou no conc...",
+    "bullets": [
+      "1. Paralisia por Sobrecarga de Informação: Ele recebeu uma lista com 15 itens técnicos (bieletas, pivôs, coxins) e não entendeu a diferença entre o que é urgente para a segurança e o que pode ser feito no próximo mês.",
+      "2. Impacto do Valor Sem Contexto de Pagamento: Ele viu o número final (ex: R$ 3.850) e assustou-se por estar no trabalho ou em uma reunião, sem ver quais são as opções de parcelamento no cartão de crédito."
+    ]
+  },
+  {
+    "slideNumber": 4,
+    "totalSlides": 5,
+    "tag": "3. O RESULTADO NA PRÁTICA",
+    "title": "A Regra dos 45 Minutos: O Tempo Exato do Resgate",
+    "subtitle": "Dados do setor de atendimento via WhatsApp mostram que a probabilidade de aprovação de um orçamento cai mais d...",
+    "bullets": [
+      "Dados do setor de atendimento via WhatsApp mostram que a probabilidade...",
+      "Por outro lado, enviar uma mensagem cobrando resposta apenas 10 minuto..."
+    ],
+    "highlightText": "💡 Por outro lado, enviar uma mensagem cobrando resposta apenas 10 minutos após o e..."
+  },
+  {
+    "slideNumber": 5,
+    "totalSlides": 5,
+    "tag": "ARTIGO COMPLETO",
+    "title": "Quer dominar essa estratégia?",
+    "subtitle": "Leia o artigo completo \"Cliente não responde o orçamento no WhatsApp: o que fazer\" no nosso blog!",
+    "ctaText": "📌 Salve este post\n🚀 Compartilhe com um colega de oficina\n🔗 Link no perfil do Instagram"
+  }
+]
